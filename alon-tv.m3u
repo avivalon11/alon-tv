@@ -19,7 +19,6 @@ http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260719
 http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260722
 #EXTINF:-1 tvg-id="KnessetChannel.il" tvg-name="IS - KNESSET" tvg-logo="http://logo.protv.cc/picons-dino/logos/knesset.jpg" group-title="News",IS - KNESSET
 http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260805
-
 #EXTINF:-1 tvg-id="sport1.il" tvg-name="IS - SPORT 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sport1.jpg" group-title="SPORTS",IS - SPORT 1 UHD
 http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260742
 #EXTINF:-1 tvg-id="sport1.il" tvg-name="IS - YES SPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yessport1.jpeg" group-title="SPORTS",IS - YES SPORT 1 FHD
@@ -56,7 +55,6 @@ http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260757
 http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260758
 #EXTINF:-1 tvg-id="ONE2.il" tvg-name="IS - ONE 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/ONE2.jpeg" group-title="SPORTS",IS - ONE 2 UHD
 http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260759
-
 #EXTINF:-1 tvg-id="TravelChannel.il" tvg-name="IS - TRAVEL CHANNEL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/travelchannelhd.png" group-title="Amir",IS - TRAVEL CHANNEL UHD
 http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260761
 #EXTINF:-1 tvg-id="GoodLife.il" tvg-name="IS - GOOD LIFE" tvg-logo="http://logo.protv.cc/picons-dino/logos/goodlife.jpg" group-title="Amir",IS - GOOD LIFE
@@ -79,7 +77,6 @@ http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260794
 http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260795
 #EXTINF:-1 tvg-id="NatGeoWild.il" tvg-name="IS - NAT GEO WILD UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeowildhd.png" group-title="Amir",IS - NAT GEO WILD UHD
 http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260796
-
 #EXTINF:-1 tvg-id="" tvg-name="IS - KAN EDU" tvg-logo="http://logo.protv.cc/picons-dino/logos/kanedu.png" group-title="Uncategorized",IS - KAN EDU
 http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260721
 #EXTINF:-1 tvg-id="" tvg-name="IS - A PLUS KIDS" tvg-logo="http://logo.protv.cc/picons-dino/logos/apluskids.png" group-title="Uncategorized",IS - A PLUS KIDS
@@ -186,4 +183,3 @@ http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260803
 http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260804
 #EXTINF:-1 tvg-id="Hidabroot.il" tvg-name="IS - HIDABROOT" tvg-logo="http://logo.protv.cc/picons-dino/logos/hidabroot.png" group-title="Uncategorized",IS - HIDABROOT
 http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260807
-#EXTINF:-1 tvg-id="Mikan.il" tvg-name="IS - MIKAN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mikan.png" group-title="Uncategorized",IS - MIKAN UHD
