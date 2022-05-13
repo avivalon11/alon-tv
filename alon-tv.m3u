@@ -1,79 +1,189 @@
 #EXTM3U
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/NmnXn2z.jpg" group-title="News",Channel 2 News
-http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/NmnXn2z.jpg" group-title="News",Channel 2 News
-https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/2RC8nh6.jpg" group-title="Music",Channel 24 (720p)
-https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Discovery Channel [Geo]
-http://s1-p3.peer5.net/edge/44-1.stream/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Disney Channel [Geo]
-http://s1-p3.peer5.net/edge/41-1.stream/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/OzjftEl.png" group-title="Undefined",Hala TV (1080p) [Not 24/7]
-https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/OzjftEl.png" group-title="Undefined",Hala TV (1080p) [Not 24/7]
-https://live2.panet.co.il/edge_abr/halaTV/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/wKi97Pg.png" group-title="Religious",Hidabroot (576p)
-https://stream5.shidur.net/htvlive2/smil:live2.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/wKi97Pg.png" group-title="Religious",Hidabroot (576p)
-https://stream72.shidur.net/htvlive2/smil:live2.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/wKi97Pg.png" group-title="Religious",Hidabroot (576p) [Not 24/7]
-https://stream71.shidur.net/htvlive2/smil:live2.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" group-title="Undefined",Kabbalah for the People (Israel)
-http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" group-title="Undefined",Kabbalah for the People (Israel)
-https://edge2.uk.kab.tv/rtplive/tv66-heb-medium.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" group-title="Undefined",Kabbalah for the People (Israel)
-https://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/8R1UWRw.jpg" group-title="Undefined",Kabbalah for the People (Israel) (504p)
-https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="https://i.imgur.com/vqfNbEU.png" group-title="Undefined",Kan 11
-https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",National Geographic [Geo]
-http://s1-p3.peer5.net/edge/13-1.stream/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="http://thumbs2.imagebam.com/bc/ad/be/19f5c9784877383.jpg" group-title="Undefined",Reshet 13 (720p)
-https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES 4 HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92509?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES ACTION HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92510?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES COMEDY HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92511?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES Drama HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92514?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",YES Israeli Cinema
-http://tvakrep1.xyz:25461/05325999790/05325999790/92515?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES SPORT 1 HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92519?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES SPORT 2 HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92520?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES SPORT 3 HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92521?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES SPORT 4 HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92522?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES SPORT 5
-http://tvakrep1.xyz:25461/05325999790/05325999790/92523?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES SPORT 5 GOLD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92524?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES SPORT 5 LIVE
-http://tvakrep1.xyz:25461/05325999790/05325999790/92525?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES SPORT 5 PLUS HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92527?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Sport",YES SPORT 5 STARS
-http://tvakrep1.xyz:25461/05325999790/05325999790/92528?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes DOCU
-http://tvakrep1.xyz:25461/05325999790/05325999790/92513?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Discovery
-http://tvakrep1.xyz:25461/05325999790/05325999790/92512?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Good Life HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92518?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Knesest Tv
-http://tvakrep1.xyz:25461/05325999790/05325999790/92516?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes TeenNick FHD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92529?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes Travel Channel
-http://tvakrep1.xyz:25461/05325999790/05325999790/92530?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",Yes makan 33
-http://tvakrep1.xyz:25461/05325999790/05325999790/92517?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IL" tvg-logo="" group-title="Undefined",ZOOM HD
-http://tvakrep1.xyz:25461/05325999790/05325999790/92532?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="Kan11.il" tvg-name="IS - CHANNEL 11 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/channel11.png" group-title="Uncategorized",IS - CHANNEL 11 UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260713
+#EXTINF:-1 tvg-id="" tvg-name="IS - KESHET UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/KESHET.png" group-title="News",IS - KESHET UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260714
+#EXTINF:-1 tvg-id="12Keshet.il" tvg-name="IS - CHANNEL 12 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/channel12.jpg" group-title="News",IS - CHANNEL 12 UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260715
+#EXTINF:-1 tvg-id="13Reshet.il" tvg-name="IS - ARUTZ 13 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/arutz13.png" group-title="News",IS - ARUTZ 13 UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260716
+#EXTINF:-1 tvg-id="13Reshet.il" tvg-name="IS - RESHET 13 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/reshet13.png" group-title="News",IS - RESHET 13 UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260717
+#EXTINF:-1 tvg-id="13Reshet.il" tvg-name="IS - CHANNEL 13" tvg-logo="http://logo.protv.cc/picons-dino/logos/channel13.png" group-title="News",IS - CHANNEL 13
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260718
+#EXTINF:-1 tvg-id="Channel20.il" tvg-name="IS - YES CH 20 HD" tvg-logo="http://logo.protv.cc/picons/logos/CHANNEL-20-IL.png" group-title="News",IS - YES CH 20 HD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/670181
+#EXTINF:-1 tvg-id="" tvg-name="IS - CHANNEL 2 NEWS" tvg-logo="http://logo.protv.cc/picons-dino/logos/channel2news.jpg" group-title="News",IS - CHANNEL 2 NEWS
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260719
+#EXTINF:-1 tvg-id="" tvg-name="IS - CHANNEL 9" tvg-logo="http://logo.protv.cc/picons-dino/logos/channel9.png" group-title="News",IS - CHANNEL 9
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260722
+#EXTINF:-1 tvg-id="KnessetChannel.il" tvg-name="IS - KNESSET" tvg-logo="http://logo.protv.cc/picons-dino/logos/knesset.jpg" group-title="News",IS - KNESSET
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260805
+
+#EXTINF:-1 tvg-id="sport1.il" tvg-name="IS - SPORT 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sport1.jpg" group-title="SPORTS",IS - SPORT 1 UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260742
+#EXTINF:-1 tvg-id="sport1.il" tvg-name="IS - YES SPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yessport1.jpeg" group-title="SPORTS",IS - YES SPORT 1 FHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260743
+#EXTINF:-1 tvg-id="Sport2.il" tvg-name="IS - SPORT 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sport2.jpg" group-title="SPORTS",IS - SPORT 2 UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260744
+#EXTINF:-1 tvg-id="Sport2.il" tvg-name="IS - YES SPORT 2 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yessport2.jpeg" group-title="SPORTS",IS - YES SPORT 2 FHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260745
+#EXTINF:-1 tvg-id="Sport3.il" tvg-name="IS - SPORT 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sport3.jpg" group-title="SPORTS",IS - SPORT 3 UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260746
+#EXTINF:-1 tvg-id="Sport3.il" tvg-name="IS - YES SPORT 3 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yessport3.png" group-title="SPORTS",IS - YES SPORT 3 FHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260747
+#EXTINF:-1 tvg-id="Sport4.il" tvg-name="IS - SPORT 4 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sport4.jpg" group-title="SPORTS",IS - SPORT 4 UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260748
+#EXTINF:-1 tvg-id="Sport4.il" tvg-name="IS - YES SPORT 4 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yessport4.png" group-title="SPORTS",IS - YES SPORT 4 FHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260749
+#EXTINF:-1 tvg-id="Sport5.il" tvg-name="IS - SPORT 5 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sport5.png" group-title="SPORTS",IS - SPORT 5 UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260750
+#EXTINF:-1 tvg-id="Sport5.il" tvg-name="IS - YES SPORT 5 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yessport5.png" group-title="SPORTS",IS - YES SPORT 5 UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260751
+#EXTINF:-1 tvg-id="" tvg-name="IS - SPORT 5 GOLD UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sport5gold.jpg" group-title="SPORTS",IS - SPORT 5 GOLD UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260752
+#EXTINF:-1 tvg-id="" tvg-name="IS - SPORT LIVE 5 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sport5live.jpg" group-title="SPORTS",IS - SPORT LIVE 5 UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260753
+#EXTINF:-1 tvg-id="Sport5Plus.il" tvg-name="IS - YES SPORT 5 PLUS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yessport5.png" group-title="SPORTS",IS - YES SPORT 5 PLUS FHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260754
+#EXTINF:-1 tvg-id="Sport5Plus.il" tvg-name="IS - SPORT 5 PLUS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sport5plus.jpg" group-title="SPORTS",IS - SPORT 5 PLUS UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260755
+#EXTINF:-1 tvg-id="" tvg-name="IS - SPORT 5 STARS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sport5stars.jpg" group-title="SPORTS",IS - SPORT 5 STARS UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260756
+#EXTINF:-1 tvg-id="sport1.il" tvg-name="IS - YES SPORT ONE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yessportone.png" group-title="SPORTS",IS - YES SPORT ONE UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260757
+#EXTINF:-1 tvg-id="" tvg-name="IS - ONE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/onehd.png" group-title="SPORTS",IS - ONE UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260758
+#EXTINF:-1 tvg-id="ONE2.il" tvg-name="IS - ONE 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/ONE2.jpeg" group-title="SPORTS",IS - ONE 2 UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260759
+
+#EXTINF:-1 tvg-id="TravelChannel.il" tvg-name="IS - TRAVEL CHANNEL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/travelchannelhd.png" group-title="Amir",IS - TRAVEL CHANNEL UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260761
+#EXTINF:-1 tvg-id="GoodLife.il" tvg-name="IS - GOOD LIFE" tvg-logo="http://logo.protv.cc/picons-dino/logos/goodlife.jpg" group-title="Amir",IS - GOOD LIFE
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260762
+#EXTINF:-1 tvg-id="HealthChannel.il" tvg-name="IS - HEALTH CH." tvg-logo="http://logo.protv.cc/picons-dino/logos/healthchannel.jpg" group-title="Amir",IS - HEALTH CH.
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260776
+#EXTINF:-1 tvg-id="HistoryChannel.il" tvg-name="IS - HISTORY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/historyhd.png" group-title="Amir",IS - HISTORY UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260777
+#EXTINF:-1 tvg-id="Discovery.il" tvg-name="IS - DISCOVERY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/discoveryhd.png" group-title="Amir",IS - DISCOVERY UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260778
+#EXTINF:-1 tvg-id="FoodChannel.il" tvg-name="IS - FOOD CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/foodnetwork.png" group-title="Amir",IS - FOOD CHANNEL
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260798
+#EXTINF:-1 tvg-id="FoodNetwork.il" tvg-name="IS - FOOD NETWORK" tvg-logo="http://logo.protv.cc/picons-dino/logos/foodnetwork.png" group-title="Amir",IS - FOOD NETWORK
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260799
+#EXTINF:-1 tvg-id="YesDocu.il" tvg-name="IS - YES DOCU UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yesdocu.jpg" group-title="Amir",IS - YES DOCU UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260790
+#EXTINF:-1 tvg-id="NationalGeographic.il" tvg-name="IS - NAT GEO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeohd.png" group-title="Amir",IS - NAT GEO UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260794
+#EXTINF:-1 tvg-id="NationalGeographic.il" tvg-name="IS - NAT GEO SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeosf.png" group-title="Amir",IS - NAT GEO SD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260795
+#EXTINF:-1 tvg-id="NatGeoWild.il" tvg-name="IS - NAT GEO WILD UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeowildhd.png" group-title="Amir",IS - NAT GEO WILD UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260796
+
+#EXTINF:-1 tvg-id="" tvg-name="IS - KAN EDU" tvg-logo="http://logo.protv.cc/picons-dino/logos/kanedu.png" group-title="Uncategorized",IS - KAN EDU
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260721
+#EXTINF:-1 tvg-id="" tvg-name="IS - A PLUS KIDS" tvg-logo="http://logo.protv.cc/picons-dino/logos/apluskids.png" group-title="Uncategorized",IS - A PLUS KIDS
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260723
+#EXTINF:-1 tvg-id="YesMoviesKids.il" tvg-name="IS - HOT KIDZ UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotkids.png" group-title="Uncategorized",IS - HOT KIDZ UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260724
+#EXTINF:-1 tvg-id="StarsChannel.il" tvg-name="IS - STARS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/starshd.png" group-title="Uncategorized",IS - STARS UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260725
+#EXTINF:-1 tvg-id="Wiz.il" tvg-name="IS - WIZ UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/wizhd.png" group-title="Uncategorized",IS - WIZ UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260726
+#EXTINF:-1 tvg-id="YesBaby.il" tvg-name="IS - BABY TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/babytv.png" group-title="Uncategorized",IS - BABY TV
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260727
+#EXTINF:-1 tvg-id="" tvg-name="IS - HOT LULLI" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotlulli.jpg" group-title="Uncategorized",IS - HOT LULLI
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260728
+#EXTINF:-1 tvg-id="DisneyChannel.il" tvg-name="IS - DISNEY CHANNEL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/disneychannelhd.png" group-title="Uncategorized",IS - DISNEY CHANNEL UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260729
+#EXTINF:-1 tvg-id="DisneyJunior.il" tvg-name="IS - DISNEY JR" tvg-logo="http://logo.protv.cc/picons-dino/logos/disneyjr.png" group-title="Uncategorized",IS - DISNEY JR
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260730
+#EXTINF:-1 tvg-id="JuniorChannel.il" tvg-name="IS - HOT JUNIOR" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotjunior.jpg" group-title="Uncategorized",IS - HOT JUNIOR
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260731
+#EXTINF:-1 tvg-id="YesMoviesKids.il" tvg-name="IS - YES KIDS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yeskids.png" group-title="Uncategorized",IS - YES KIDS UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260732
+#EXTINF:-1 tvg-id="JuniorChannel.il" tvg-name="IS - JUNIOR UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/juniorhd.jpg" group-title="Uncategorized",IS - JUNIOR UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260733
+#EXTINF:-1 tvg-id="Hop.il" tvg-name="IS - HOP UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hop.jpg" group-title="Uncategorized",IS - HOP UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260735
+#EXTINF:-1 tvg-id="Zoom.il" tvg-name="IS - ZOOM TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/zoomtv.png" group-title="Uncategorized",IS - ZOOM TV
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260736
+#EXTINF:-1 tvg-id="Nickelodeon.il" tvg-name="IS - NICKELODEON" tvg-logo="http://logo.protv.cc/picons-dino/logos/nickelodeon.png" group-title="Uncategorized",IS - NICKELODEON
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260737
+#EXTINF:-1 tvg-id="NickJr.il" tvg-name="IS - NICK JR" tvg-logo="http://logo.protv.cc/picons-dino/logos/nickjr.png" group-title="Uncategorized",IS - NICK JR
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260738
+#EXTINF:-1 tvg-id="Hop.il" tvg-name="IS - HOT HOP" tvg-logo="http://logo.protv.cc/picons-dino/logos/hothop.jpg" group-title="Uncategorized",IS - HOT HOP
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260740
+#EXTINF:-1 tvg-id="ExtremeSports.il" tvg-name="IS - EXTREME SPORTS" tvg-logo="http://logo.protv.cc/picons-dino/logos/extremesports.png" group-title="Uncategorized",IS - EXTREME SPORTS
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260741
+#EXTINF:-1 tvg-id="TotalEgo.il" tvg-name="IS - EGO TOTAL" tvg-logo="http://logo.protv.cc/picons-dino/logos/egototal.jpg" group-title="Uncategorized",IS - EGO TOTAL
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260760
+#EXTINF:-1 tvg-id="" tvg-name="IS - HOME PLUS" tvg-logo="http://logo.protv.cc/picons-dino/logos/homeplus.png" group-title="Uncategorized",IS - HOME PLUS
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260763
+#EXTINF:-1 tvg-id="HotBollywood.il" tvg-name="IS - HOT BOLLYWOOD UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotbollywood.png" group-title="Uncategorized",IS - HOT BOLLYWOOD UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260764
+#EXTINF:-1 tvg-id="HotBombay.il" tvg-name="IS - HOT BOMBAY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotbombay.jpg" group-title="Uncategorized",IS - HOT BOMBAY UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260765
+#EXTINF:-1 tvg-id="Channel8.il" tvg-name="IS - HOT CHANNEL 8 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotchannel8.png" group-title="Uncategorized",IS - HOT CHANNEL 8 UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260766
+#EXTINF:-1 tvg-id="HotEntertainmentIsrael.il" tvg-name="IS - HOT ENTERTAINMENT UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotentertainment.png" group-title="Uncategorized",IS - HOT ENTERTAINMENT UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260767
+#EXTINF:-1 tvg-id="Hot3.il" tvg-name="IS - HOT 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hot3hd.jpg" group-title="Uncategorized",IS - HOT 3 UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260768
+#EXTINF:-1 tvg-id="HotZone.il" tvg-name="IS - HOT ZONE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotzone.jpg" group-title="Uncategorized",IS - HOT ZONE UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260769
+#EXTINF:-1 tvg-id="HotMovies2.il" tvg-name="IS - HOT ACTION UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotaction.jpg" group-title="Uncategorized",IS - HOT ACTION UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260770
+#EXTINF:-1 tvg-id="HotMovies4.il" tvg-name="IS - HOT DRAMA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotdrama.jpg" group-title="Uncategorized",IS - HOT DRAMA UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260771
+#EXTINF:-1 tvg-id="HotMovies3.il" tvg-name="IS - HOT FUN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotfun.jpg" group-title="Uncategorized",IS - HOT FUN UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260772
+#EXTINF:-1 tvg-id="HotHBO.il" tvg-name="IS - HOT HBO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hothbo.png" group-title="Uncategorized",IS - HOT HBO UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260773
+#EXTINF:-1 tvg-id="HotMovies1.il" tvg-name="IS - HOT GOLD UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotgold.jpg" group-title="Uncategorized",IS - HOT GOLD UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260774
+#EXTINF:-1 tvg-id="ComedyCentral.il" tvg-name="IS - HOT COMEDY CENTRAL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotcomedycentral.png" group-title="Uncategorized",IS - HOT COMEDY CENTRAL UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260775
+#EXTINF:-1 tvg-id="AnimalPlanet.il" tvg-name="IS - ANIMAL PLANET" tvg-logo="http://logo.protv.cc/picons-dino/logos/animalplanet.png" group-title="Uncategorized",IS - ANIMAL PLANET
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260779
+#EXTINF:-1 tvg-id="CBSReality.il" tvg-name="IS - CBS REALITY" tvg-logo="http://logo.protv.cc/picons-dino/logos/cbsreality.png" group-title="Uncategorized",IS - CBS REALITY
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260780
+#EXTINF:-1 tvg-id="" tvg-name="IS - FASHION TV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/fashiontvhd.png" group-title="Uncategorized",IS - FASHION TV UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260781
+#EXTINF:-1 tvg-id="" tvg-name="IS - LIFETIME" tvg-logo="http://logo.protv.cc/picons-dino/logos/lifetime.jpg" group-title="Uncategorized",IS - LIFETIME
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260782
+#EXTINF:-1 tvg-id="" tvg-name="IS - YES 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yes1.jpeg" group-title="Uncategorized",IS - YES 1 UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260783
+#EXTINF:-1 tvg-id="YesMoviesAction.il" tvg-name="IS - YES 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yes2.jpeg" group-title="Uncategorized",IS - YES 2 UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260784
+#EXTINF:-1 tvg-id="" tvg-name="IS - YES 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yes3.jpeg" group-title="Uncategorized",IS - YES 3 UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260785
+#EXTINF:-1 tvg-id="" tvg-name="IS - YES 4 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yes4.jpg" group-title="Uncategorized",IS - YES 4 UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260786
+#EXTINF:-1 tvg-id="5Live.il" tvg-name="IS - YES 5 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yes5.jpg" group-title="Uncategorized",IS - YES 5 UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260787
+#EXTINF:-1 tvg-id="YesTVAction.il" tvg-name="IS - YES ACTION UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yesaction.jpg" group-title="Uncategorized",IS - YES ACTION UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260788
+#EXTINF:-1 tvg-id="YesTVComedy.il" tvg-name="IS - YES COMEDY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yescomedy.jpg" group-title="Uncategorized",IS - YES COMEDY UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260789
+#EXTINF:-1 tvg-id="YesTVDrama.il" tvg-name="IS - YES DRAMA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yesdrama.jpg" group-title="Uncategorized",IS - YES DRAMA UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260791
+#EXTINF:-1 tvg-id="" tvg-name="IS - YES POUPUP" tvg-logo="" group-title="Uncategorized",IS - YES POUPUP
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/716859
+#EXTINF:-1 tvg-id="YesIsraeli.il" tvg-name="IS - YES ISREALI CINEMA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yesisraelcinema.jpg" group-title="Uncategorized",IS - YES ISREALI CINEMA UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260792
+#EXTINF:-1 tvg-id="EEntertainment.il" tvg-name="IS - YES E!" tvg-logo="http://logo.protv.cc/picons-dino/logos/yesedge.png" group-title="Uncategorized",IS - YES E!
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260797
+#EXTINF:-1 tvg-id="Viva.il" tvg-name="IS - VIVA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/vivahd.png" group-title="Uncategorized",IS - VIVA UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260800
+#EXTINF:-1 tvg-id="VivaPlus.il" tvg-name="IS - VIVA PLUS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/vivaplus.jpg" group-title="Uncategorized",IS - VIVA PLUS UHD
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260801
+#EXTINF:-1 tvg-id="" tvg-name="IS - MUSIC 24" tvg-logo="http://logo.protv.cc/picons-dino/logos/music24.jpg" group-title="Uncategorized",IS - MUSIC 24
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260802
+#EXTINF:-1 tvg-id="" tvg-name="IS - YAM TICHONI" tvg-logo="http://logo.protv.cc/picons-dino/logos/yamtahoni.jpg" group-title="Uncategorized",IS - YAM TICHONI
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260803
+#EXTINF:-1 tvg-id="MTVMusic.il" tvg-name="IS - MTV MUSIC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mtvmusic.png" group-title="Music",IS - MTV MUSIC
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260804
+#EXTINF:-1 tvg-id="Hidabroot.il" tvg-name="IS - HIDABROOT" tvg-logo="http://logo.protv.cc/picons-dino/logos/hidabroot.png" group-title="Uncategorized",IS - HIDABROOT
+http://line.premium-dino.com:80/e63a60c5d1/cde15bdecb/260807
+#EXTINF:-1 tvg-id="Mikan.il" tvg-name="IS - MIKAN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mikan.png" group-title="Uncategorized",IS - MIKAN UHD
