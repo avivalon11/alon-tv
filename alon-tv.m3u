@@ -183,6 +183,7 @@ http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260803
 http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260804
 #EXTINF:-1 tvg-id="Hidabroot.il" tvg-name="IS - HIDABROOT" tvg-logo="http://logo.protv.cc/picons-dino/logos/hidabroot.png" group-title="Uncategorized",IS - HIDABROOT
 http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260807
+
 #EXTINF:-1 tvg-id="" tvg-name="USA - CORONA LIVE" tvg-logo="http://logo.protv.cc/picons-dino/logos/CORONA-VIRUS-LIVE-UPDATE.png" group-title="USA",USA - CORONA LIVE
 http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/469289
 #EXTINF:-1 tvg-id="ca.ABC (WCVB) Boston, MA HD" tvg-name="USA - ABC EAST HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/abc.png" group-title="USA",USA - ABC EAST HD
@@ -3848,6 +3849,7 @@ http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/723717
 http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/723716
 #EXTINF:-1 tvg-id="" tvg-name="US - ESPN+ 153 UHD [EVENTS-ONLY]" tvg-logo="http://logo.protv.cc/picons-dino/logos/espn.png" group-title="USA",US - ESPN+ 153 UHD [EVENTS-ONLY]
 http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/723715
+
 #EXTINF:-1 tvg-id="" tvg-name="##### SY - SYRIA #####" tvg-logo="" group-title="SYRIA",##### SY - SYRIA #####
 http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/257755
 #EXTINF:-1 tvg-id="" tvg-name="AR - AL MAYADEEN" tvg-logo="http://logo.protv.cc/picons-dino/logos/almayadeen.png" group-title="ARABIC NEWS & FACTUAL",AR - AL MAYADEEN
@@ -4024,6 +4026,7 @@ http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/646883
 http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/646884
 #EXTINF:-1 tvg-id="" tvg-name="LB - IFILM ARABIC +6H" tvg-logo="" group-title="LEBANON",LB - IFILM ARABIC +6H
 http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/646885
+
 #EXTINF:-1 tvg-id="" tvg-name="AU - ##### AUSTRALIA #####" tvg-logo="" group-title="AUSTRALIA",AU - ##### AUSTRALIA #####
 http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259810
 #EXTINF:-1 tvg-id="" tvg-name="AU - 7MATE MELBOURNE" tvg-logo="http://logo.protv.cc/picons-dino/logos/aus.7Two.png" group-title="AUSTRALIA",AU - 7MATE MELBOURNE
@@ -4152,3 +4155,1034 @@ http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259868
 http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259869
 #EXTINF:-1 tvg-id="" tvg-name="AU - TVSN SHOPPING (NZ)" tvg-logo="http://logo.protv.cc/picons-dino/logos/TVSN-SHOPPING.jpeg" group-title="AUSTRALIA",AU - TVSN SHOPPING (NZ)
 http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259870
+
+#EXTINF:-1 tvg-id="Channel20.il" tvg-name="IS - YES CH 20 HD" tvg-logo="http://logo.protv.cc/picons/logos/CHANNEL-20-IL.png" group-title="YES CHANNELS",IS - YES CH 20 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/670181
+#EXTINF:-1 tvg-id="sport1.il" tvg-name="IS - YES SPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yessport1.jpeg" group-title="YES CHANNELS",IS - YES SPORT 1 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260743
+#EXTINF:-1 tvg-id="Sport2.il" tvg-name="IS - SPORT 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sport2.jpg" group-title="YES CHANNELS",IS - SPORT 2 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260744
+#EXTINF:-1 tvg-id="Sport2.il" tvg-name="IS - YES SPORT 2 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yessport2.jpeg" group-title="YES CHANNELS",IS - YES SPORT 2 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260745
+#EXTINF:-1 tvg-id="Sport3.il" tvg-name="IS - SPORT 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sport3.jpg" group-title="YES CHANNELS",IS - SPORT 3 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260746
+#EXTINF:-1 tvg-id="Sport3.il" tvg-name="IS - YES SPORT 3 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yessport3.png" group-title="YES CHANNELS",IS - YES SPORT 3 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260747
+#EXTINF:-1 tvg-id="Sport4.il" tvg-name="IS - SPORT 4 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sport4.jpg" group-title="YES CHANNELS",IS - SPORT 4 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260748
+#EXTINF:-1 tvg-id="Sport4.il" tvg-name="IS - YES SPORT 4 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yessport4.png" group-title="YES CHANNELS",IS - YES SPORT 4 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260749
+#EXTINF:-1 tvg-id="Sport5.il" tvg-name="IS - SPORT 5 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/sport5.png" group-title="YES CHANNELS",IS - SPORT 5 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260750
+#EXTINF:-1 tvg-id="Sport5.il" tvg-name="IS - YES SPORT 5 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yessport5.png" group-title="YES CHANNELS",IS - YES SPORT 5 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260751
+#EXTINF:-1 tvg-id="Sport5Plus.il" tvg-name="IS - YES SPORT 5 PLUS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yessport5.png" group-title="YES CHANNELS",IS - YES SPORT 5 PLUS FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260754
+#EXTINF:-1 tvg-id="sport1.il" tvg-name="IS - YES SPORT ONE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yessportone.png" group-title="YES CHANNELS",IS - YES SPORT ONE UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260757
+#EXTINF:-1 tvg-id="YesDocu.il" tvg-name="IS - YES DOCU UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yesdocu.jpg" group-title="YES CHANNELS",IS - YES DOCU UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260790
+#EXTINF:-1 tvg-id="YesMoviesKids.il" tvg-name="IS - HOT KIDZ UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotkids.png" group-title="YES CHANNELS",IS - HOT KIDZ UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260724
+#EXTINF:-1 tvg-id="YesBaby.il" tvg-name="IS - BABY TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/babytv.png" group-title="YES CHANNELS",IS - BABY TV
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260727
+#EXTINF:-1 tvg-id="YesMoviesKids.il" tvg-name="IS - YES KIDS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yeskids.png" group-title="YES CHANNELS",IS - YES KIDS UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260732
+#EXTINF:-1 tvg-id="" tvg-name="IS - YES 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yes1.jpeg" group-title="YES CHANNELS",IS - YES 1 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260783
+#EXTINF:-1 tvg-id="YesMoviesAction.il" tvg-name="IS - YES 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yes2.jpeg" group-title="YES CHANNELS",IS - YES 2 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260784
+#EXTINF:-1 tvg-id="" tvg-name="IS - YES 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yes3.jpeg" group-title="YES CHANNELS",IS - YES 3 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260785
+#EXTINF:-1 tvg-id="" tvg-name="IS - YES 4 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yes4.jpg" group-title="YES CHANNELS",IS - YES 4 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260786
+#EXTINF:-1 tvg-id="5Live.il" tvg-name="IS - YES 5 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yes5.jpg" group-title="YES CHANNELS",IS - YES 5 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260787
+#EXTINF:-1 tvg-id="YesTVAction.il" tvg-name="IS - YES ACTION UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yesaction.jpg" group-title="YES CHANNELS",IS - YES ACTION UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260788
+#EXTINF:-1 tvg-id="YesTVComedy.il" tvg-name="IS - YES COMEDY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yescomedy.jpg" group-title="YES CHANNELS",IS - YES COMEDY UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260789
+#EXTINF:-1 tvg-id="YesTVDrama.il" tvg-name="IS - YES DRAMA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yesdrama.jpg" group-title="YES CHANNELS",IS - YES DRAMA UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260791
+#EXTINF:-1 tvg-id="" tvg-name="IS - YES POUPUP" tvg-logo="" group-title="YES CHANNELS",IS - YES POUPUP
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/716859
+#EXTINF:-1 tvg-id="YesIsraeli.il" tvg-name="IS - YES ISREALI CINEMA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/yesisraelcinema.jpg" group-title="YES CHANNELS",IS - YES ISREALI CINEMA UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260792
+#EXTINF:-1 tvg-id="EEntertainment.il" tvg-name="IS - YES E!" tvg-logo="http://logo.protv.cc/picons-dino/logos/yesedge.png" group-title="YES CHANNELS",IS - YES E!
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260797
+
+#EXTINF:-1 tvg-id="YesMoviesKids.il" tvg-name="IS - HOT KIDZ UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotkids.png" group-title="HOT CHANNELS",IS - HOT KIDZ UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260724
+#EXTINF:-1 tvg-id="" tvg-name="IS - HOT LULLI" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotlulli.jpg" group-title="HOT CHANNELS",IS - HOT LULLI
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260728
+#EXTINF:-1 tvg-id="JuniorChannel.il" tvg-name="IS - HOT JUNIOR" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotjunior.jpg" group-title="HOT CHANNELS",IS - HOT JUNIOR
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260731
+#EXTINF:-1 tvg-id="Hop.il" tvg-name="IS - HOT HOP" tvg-logo="http://logo.protv.cc/picons-dino/logos/hothop.jpg" group-title="HOT CHANNELS",IS - HOT HOP
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260740
+#EXTINF:-1 tvg-id="HotBollywood.il" tvg-name="IS - HOT BOLLYWOOD UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotbollywood.png" group-title="HOT CHANNELS",IS - HOT BOLLYWOOD UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260764
+#EXTINF:-1 tvg-id="HotBombay.il" tvg-name="IS - HOT BOMBAY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotbombay.jpg" group-title="HOT CHANNELS",IS - HOT BOMBAY UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260765
+#EXTINF:-1 tvg-id="Channel8.il" tvg-name="IS - HOT CHANNEL 8 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotchannel8.png" group-title="HOT CHANNELS",IS - HOT CHANNEL 8 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260766
+#EXTINF:-1 tvg-id="HotEntertainmentIsrael.il" tvg-name="IS - HOT ENTERTAINMENT UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotentertainment.png" group-title="HOT CHANNELS",IS - HOT ENTERTAINMENT UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260767
+#EXTINF:-1 tvg-id="Hot3.il" tvg-name="IS - HOT 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hot3hd.jpg" group-title="HOT CHANNELS",IS - HOT 3 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260768
+#EXTINF:-1 tvg-id="HotZone.il" tvg-name="IS - HOT ZONE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotzone.jpg" group-title="HOT CHANNELS",IS - HOT ZONE UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260769
+#EXTINF:-1 tvg-id="HotMovies2.il" tvg-name="IS - HOT ACTION UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotaction.jpg" group-title="HOT CHANNELS",IS - HOT ACTION UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260770
+#EXTINF:-1 tvg-id="HotMovies4.il" tvg-name="IS - HOT DRAMA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotdrama.jpg" group-title="HOT CHANNELS",IS - HOT DRAMA UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260771
+#EXTINF:-1 tvg-id="HotMovies3.il" tvg-name="IS - HOT FUN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotfun.jpg" group-title="HOT CHANNELS",IS - HOT FUN UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260772
+#EXTINF:-1 tvg-id="HotHBO.il" tvg-name="IS - HOT HBO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hothbo.png" group-title="HOT CHANNELS",IS - HOT HBO UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260773
+#EXTINF:-1 tvg-id="HotMovies1.il" tvg-name="IS - HOT GOLD UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotgold.jpg" group-title="HOT CHANNELS",IS - HOT GOLD UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260774
+#EXTINF:-1 tvg-id="ComedyCentral.il" tvg-name="IS - HOT COMEDY CENTRAL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hotcomedycentral.png" group-title="HOT CHANNELS",IS - HOT COMEDY CENTRAL UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/260775
+
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] NEWS ######" tvg-logo="" group-title="UK",##### [UK] NEWS ######
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577230
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="UK - SKY NEWS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skynews.png" group-title="UK",UK - SKY NEWS UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577229
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK - BBC NEWS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbcnewshd.png" group-title="UK",UK - BBC NEWS UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577228
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="UK - BBC NEWS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbcnewshd.png" group-title="UK",UK - BBC NEWS FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577227
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="UK - BBC WORLD NEWS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbcworldnews.png" group-title="UK",UK - BBC WORLD NEWS UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577226
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="UK - BBC PARLIAMENT" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbcparliament.png" group-title="UK",UK - BBC PARLIAMENT
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577225
+#EXTINF:-1 tvg-id="" tvg-name="UK - BBC ARABIC" tvg-logo="http://logo.protv.cc/picons-dino/logos/bbcarabic.png" group-title="UK",UK - BBC ARABIC
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577224
+#EXTINF:-1 tvg-id="" tvg-name="UK - BLOOMBERG EU" tvg-logo="http://logo.protv.cc/picons-dino/logos/bloomberg.png" group-title="UK",UK - BLOOMBERG EU
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577223
+#EXTINF:-1 tvg-id="" tvg-name="UK - BLOOMBERG UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bloomberg.png" group-title="UK",UK - BLOOMBERG UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577222
+#EXTINF:-1 tvg-id="" tvg-name="UK - BLOOMBERG FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bloomberg.png" group-title="UK",UK - BLOOMBERG FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577221
+#EXTINF:-1 tvg-id="uk.CNN" tvg-name="UK - CNN FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cnnhd.png" group-title="UK",UK - CNN FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577220
+#EXTINF:-1 tvg-id="CNN.uk" tvg-name="UK - CNN INTERNATIONAL" tvg-logo="http://logo.protv.cc/picons-dino/logos/cnninternational.png" group-title="UK",UK - CNN INTERNATIONAL
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577219
+#EXTINF:-1 tvg-id="" tvg-name="UK - FRANCE 24" tvg-logo="http://logo.protv.cc/picons-dino/logos/france24.png" group-title="UK",UK - FRANCE 24
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577218
+#EXTINF:-1 tvg-id="" tvg-name="UK - RT AMERICA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/RT-AMERICA.png" group-title="UK",UK - RT AMERICA UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577217
+#EXTINF:-1 tvg-id="" tvg-name="UK - RT DOCUMENTRY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/rtdocumentary.png" group-title="UK",UK - RT DOCUMENTRY UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577216
+#EXTINF:-1 tvg-id="" tvg-name="UK - RT NEWS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/RT-NEWS-HD.png" group-title="UK",UK - RT NEWS UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577215
+#EXTINF:-1 tvg-id="" tvg-name="UK - RT UK UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/RT-NEWS-HD.png" group-title="UK",UK - RT UK UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577214
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.uk" tvg-name="UK - AL JAZEERA EN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/aljazeeraenglishhd.png" group-title="UK",UK - AL JAZEERA EN UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577213
+#EXTINF:-1 tvg-id="" tvg-name="UK - TRT WORLD" tvg-logo="http://logo.protv.cc/picons-dino/logos/trtworld.png" group-title="UK",UK - TRT WORLD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577212
+#EXTINF:-1 tvg-id="CNBC.uk" tvg-name="UK - CNBC" tvg-logo="http://logo.protv.cc/picons-dino/logos/cnbc.png" group-title="UK",UK - CNBC
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577211
+#EXTINF:-1 tvg-id="" tvg-name="UK - I24NEWS EN" tvg-logo="http://logo.protv.cc/picons-dino/logos/i24newsenglish.png" group-title="UK",UK - I24NEWS EN
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577210
+#EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="UK - EURONEWS EN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/euronewsenglish.png" group-title="UK",UK - EURONEWS EN UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577209
+#EXTINF:-1 tvg-id="EuroNews.uk" tvg-name="UK - EURONEWS" tvg-logo="http://logo.protv.cc/picons-dino/logos/euronewsenglish.png" group-title="UK",UK - EURONEWS
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577208
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] DISCOVERY+ #####" tvg-logo="" group-title="UK",##### [UK] DISCOVERY+ #####
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/578196
+#EXTINF:-1 tvg-id="DiscoveryChannel.uk" tvg-name="UK - DISCOVERY+ FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/78.jpg" group-title="UK",UK - DISCOVERY+ FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/578195
+#EXTINF:-1 tvg-id="DiscoveryHistory.uk" tvg-name="UK - DISCOVERY HISTORY" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/78.jpg" group-title="UK",UK - DISCOVERY HISTORY
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/578194
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-name="UK - DISCOVERY SCIENCE" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/78.jpg" group-title="UK",UK - DISCOVERY SCIENCE
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/578193
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="UK - DISCOVERY TURBO" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/78.jpg" group-title="UK",UK - DISCOVERY TURBO
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/578192
+#EXTINF:-1 tvg-id="Quest.uk" tvg-name="UK - QUEST FHD" tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/78.jpg" group-title="UK",UK - QUEST FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/578191
+#EXTINF:-1 tvg-id="" tvg-name="UK - QUEST RED " tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/78.jpg" group-title="UK",UK - QUEST RED 
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/578190
+#EXTINF:-1 tvg-id="" tvg-name="UK - ANIMAL PLANET FHD " tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/78.jpg" group-title="UK",UK - ANIMAL PLANET FHD 
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/578189
+#EXTINF:-1 tvg-id="" tvg-name="UK - DMAX " tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/78.jpg" group-title="UK",UK - DMAX 
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/578188
+#EXTINF:-1 tvg-id="" tvg-name="UK - HGTV " tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/78.jpg" group-title="UK",UK - HGTV 
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/578187
+#EXTINF:-1 tvg-id="" tvg-name="UK - ID " tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/78.jpg" group-title="UK",UK - ID 
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/578186
+#EXTINF:-1 tvg-id="" tvg-name="UK - REALLY " tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/78.jpg" group-title="UK",UK - REALLY 
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/578185
+#EXTINF:-1 tvg-id="" tvg-name="UK - TLC FHD " tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/78.jpg" group-title="UK",UK - TLC FHD 
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/578184
+#EXTINF:-1 tvg-id="" tvg-name="UK - FOOD NETWORK " tvg-logo="http://logo.protv.cc/stalker_portal/misc/logos/320/78.jpg" group-title="UK",UK - FOOD NETWORK 
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/578183
+#EXTINF:-1 tvg-id="uk.867 BT Sport 1 HD" tvg-name="UK - BT SPORTS 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsport1hd.png" group-title="UK",UK - BT SPORTS 1 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/578001
+#EXTINF:-1 tvg-id="uk.868 BT Sport 2 HD" tvg-name="UK - BT SPORTS 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsport2hd.png" group-title="UK",UK - BT SPORTS 2 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/578000
+#EXTINF:-1 tvg-id="uk.869 BT Sport 3 HD" tvg-name="UK - BT SPORTS 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsport3hd.png" group-title="UK",UK - BT SPORTS 3 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577999
+#EXTINF:-1 tvg-id="uk.872 BTSpt//ESPNHD" tvg-name="UK - BT SPORTS ESPN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsportespnhd.png" group-title="UK",UK - BT SPORTS ESPN UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577998
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK - SKY SPORTS MAIN EVENTS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmaineventhd.png" group-title="UK",UK - SKY SPORTS MAIN EVENTS UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577997
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsplhd.png" group-title="UK",UK - SKY SPORTS PL UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577996
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK - SKY SPORTS FOOTBALL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsfootballhd.png" group-title="UK",UK - SKY SPORTS FOOTBALL UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577995
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsnewshd.png" group-title="UK",UK - SKY SPORTS NEWS UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577994
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS NFL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport.png" group-title="UK",UK - SKY SPORTS NFL UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577993
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsarenahd.png" group-title="UK",UK - SKY SPORTS ARENA UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577992
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK - SKY SPORTS CRICKET UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportscrickethd.png" group-title="UK",UK - SKY SPORTS CRICKET UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577991
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS F1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsf1hd.png" group-title="UK",UK - SKY SPORTS F1 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577990
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK - SKY SPORTS MIX UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmixhd.png" group-title="UK",UK - SKY SPORTS MIX UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577989
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK - SKY SPORTS RACING UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsracinghd.png" group-title="UK",UK - SKY SPORTS RACING UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577988
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK - SKY SPORTS GOLF UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsgolfhd.png" group-title="UK",UK - SKY SPORTS GOLF UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577987
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="UK - FREE SPORTS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/freesportshd.png" group-title="UK",UK - FREE SPORTS UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577986
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK - EUROSPORT 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport1hd.png" group-title="UK",UK - EUROSPORT 1 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577985
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK - EUROSPORT 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport2hd.png" group-title="UK",UK - EUROSPORT 2 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577984
+#EXTINF:-1 tvg-id="" tvg-name="UK - PREMIER SPORT LALIGA TV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PREMIER-SPORT-LALIGA-TV.png" group-title="UK",UK - PREMIER SPORT LALIGA TV UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577983
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="UK - PREMIER SPORTS 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/premiersports1hd.png" group-title="UK",UK - PREMIER SPORTS 1 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577982
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="UK - PREMIER SPORT 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/premiersports2hd.png" group-title="UK",UK - PREMIER SPORT 2 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577981
+#EXTINF:-1 tvg-id="" tvg-name="UK - CHELSEA TV UHD [LIVE ON MATCHES]" tvg-logo="http://logo.protv.cc/picons-dino/logos/chelseatvhd.png" group-title="UK",UK - CHELSEA TV UHD [LIVE ON MATCHES]
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577980
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK]  SKY SPORTS FHD #####" tvg-logo="" group-title="UK",##### [UK]  SKY SPORTS FHD #####
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577979
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK - SKY SPORTS MAIN EVENT FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmaineventhd.png" group-title="UK",UK - SKY SPORTS MAIN EVENT FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577978
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsplhd.png" group-title="UK",UK - SKY SPORTS PL FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577977
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK - SKY SPORTS FOOTBALL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsfootballhd.png" group-title="UK",UK - SKY SPORTS FOOTBALL FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577976
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS NFL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport.png" group-title="UK",UK - SKY SPORTS NFL FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577975
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsarenahd.png" group-title="UK",UK - SKY SPORTS ARENA FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577974
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK - SKY SPORTS CRICKET FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportscrickethd.png" group-title="UK",UK - SKY SPORTS CRICKET FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577973
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS F1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsf1hd.png" group-title="UK",UK - SKY SPORTS F1 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577972
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK - SKY SPORTS GOLF FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsgolfhd.png" group-title="UK",UK - SKY SPORTS GOLF FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577971
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK - SKY SPORTS MIX FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmixhd.png" group-title="UK",UK - SKY SPORTS MIX FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577970
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsnewshd.png" group-title="UK",UK - SKY SPORTS NEWS FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577969
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK - SKY SPORTS RACING FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsracinghd.png" group-title="UK",UK - SKY SPORTS RACING FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577968
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="UK - BT SPORTS 1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsport1hd.png" group-title="UK",UK - BT SPORTS 1 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577967
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="UK - BT SPORTS 2 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsport2hd.png" group-title="UK",UK - BT SPORTS 2 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577966
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="UK - BT SPORTS 3 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsport3hd.png" group-title="UK",UK - BT SPORTS 3 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577965
+#EXTINF:-1 tvg-id="BTSportESPN.uk" tvg-name="UK - BT SPORTS ESPN FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/btsportespnhd.png" group-title="UK",UK - BT SPORTS ESPN FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577964
+#EXTINF:-1 tvg-id="Eurosport1.uk" tvg-name="UK - EUROSPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport1hd.png" group-title="UK",UK - EUROSPORT 1 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577963
+#EXTINF:-1 tvg-id="Eurosport2.uk" tvg-name="UK - EUROSPORT 2 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport2hd.png" group-title="UK",UK - EUROSPORT 2 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577962
+#EXTINF:-1 tvg-id="" tvg-name="UK - PREMIER SPORT LALIGA TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/PREMIER-SPORT-LALIGA-TV.png" group-title="UK",UK - PREMIER SPORT LALIGA TV FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577961
+#EXTINF:-1 tvg-id="PremierSports1.uk" tvg-name="UK - PREMIER SPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/premiersports1hd.png" group-title="UK",UK - PREMIER SPORT 1 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577960
+#EXTINF:-1 tvg-id="PremierSports2.uk" tvg-name="UK - PREMIER SPORTS 2 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/premiersports2hd.png" group-title="UK",UK - PREMIER SPORTS 2 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577959
+#EXTINF:-1 tvg-id="RacingUK.uk" tvg-name="UK - RACING UK FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/racinguk.png" group-title="UK",UK - RACING UK FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577958
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="UK - BOXNATION FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/boxnationhd.png" group-title="UK",UK - BOXNATION FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577957
+#EXTINF:-1 tvg-id="BoxNation.uk" tvg-name="UK - BOXNATION" tvg-logo="http://logo.protv.cc/picons-dino/logos/boxnation.png" group-title="UK",UK - BOXNATION
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577956
+#EXTINF:-1 tvg-id="" tvg-name="UK - UFC FIGHT PASS" tvg-logo="http://logo.protv.cc/picons-dino/logos/ufc.png" group-title="UK",UK - UFC FIGHT PASS
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577955
+#EXTINF:-1 tvg-id="" tvg-name="UK - UFC FIGHT PASS+" tvg-logo="http://logo.protv.cc/picons-dino/logos/ufc.png" group-title="UK",UK - UFC FIGHT PASS+
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577954
+#EXTINF:-1 tvg-id="uk.425 LFCTV HD" tvg-name="UK - LFC TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/lfctv.png" group-title="UK",UK - LFC TV
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577953
+#EXTINF:-1 tvg-id="" tvg-name="UK - MAN UNITED FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/manchesterunitedtv.png" group-title="UK",UK - MAN UNITED FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577952
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-name="UK - FREE SPORTS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/freesportshd.png" group-title="UK",UK - FREE SPORTS FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577951
+#EXTINF:-1 tvg-id="" tvg-name="UK - RMTV" tvg-logo="http://logo.protv.cc/picons-dino/logos/RMTV.jpg" group-title="UK",UK - RMTV
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577950
+#EXTINF:-1 tvg-id="" tvg-name="UK - WWE LIVE FHD FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/wwe.png" group-title="UK",UK - WWE LIVE FHD FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577949
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] SKY SPORTS SD #####" tvg-logo="" group-title="UK",##### [UK] SKY SPORTS SD #####
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577948
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="UK - SKY SPORTS MAIN EVENT" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmainevent.png" group-title="UK",UK - SKY SPORTS MAIN EVENT
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577947
+#EXTINF:-1 tvg-id="SkySportsPremiereLeague.uk" tvg-name="UK - SKY SPORTS PREMIER LEAGUE" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportspremierleague.png" group-title="UK",UK - SKY SPORTS PREMIER LEAGUE
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577946
+#EXTINF:-1 tvg-id="" tvg-name="UK - SKY SPORTS NFL" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport.png" group-title="UK",UK - SKY SPORTS NFL
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577945
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="UK - SKY SPORTS ARENA" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportarena.png" group-title="UK",UK - SKY SPORTS ARENA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577944
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="UK - SKY SPORTS CRICKET" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportscricket.png" group-title="UK",UK - SKY SPORTS CRICKET
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577943
+#EXTINF:-1 tvg-id="SkySportsF1.uk" tvg-name="UK - SKY SPORTS F1" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsf1.png" group-title="UK",UK - SKY SPORTS F1
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577942
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="UK - SKY SPORTS FOOTBALL" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsfootball.png" group-title="UK",UK - SKY SPORTS FOOTBALL
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577941
+#EXTINF:-1 tvg-id="SkySportsGolf.uk" tvg-name="UK - SKY SPORTS GOLF" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsgolf.png" group-title="UK",UK - SKY SPORTS GOLF
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577940
+#EXTINF:-1 tvg-id="SkySportsMix.uk" tvg-name="UK - SKY SPORTS MIX" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsmix.png" group-title="UK",UK - SKY SPORTS MIX
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577939
+#EXTINF:-1 tvg-id="SkySportsNews.uk" tvg-name="UK - SKY SPORTS NEWS" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsnews.png" group-title="UK",UK - SKY SPORTS NEWS
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577938
+#EXTINF:-1 tvg-id="SkySportsRacing.uk" tvg-name="UK - SKY SPORTS RACING" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportsracing.png" group-title="UK",UK - SKY SPORTS RACING
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577937
+#EXTINF:-1 tvg-id="" tvg-name="##### [UK] SUPER SPORTS #####" tvg-logo="" group-title="UK",##### [UK] SUPER SPORTS #####
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577936
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS EVENTS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="UK",UK - SUPERSPORTS EVENTS UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577935
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT MAXIMO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="UK",UK - SUPERSPORT MAXIMO UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577934
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT ACTION UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="UK",UK - SUPERSPORT ACTION UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577933
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPER SPORT PLAY 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport1.png" group-title="UK",UK - SUPER SPORT PLAY 1 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577932
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS PLAY 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport2.png" group-title="UK",UK - SUPERSPORTS PLAY 2 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577931
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT PL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="UK",UK - SUPERSPORT PL UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577930
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT LIGA UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="UK",UK - SUPERSPORT LIGA UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577929
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT TENNIS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="UK",UK - SUPERSPORT TENNIS UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577928
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT CRICKET UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="UK",UK - SUPERSPORT CRICKET UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577916
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORTS BLITZ UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="UK",UK - SUPERSPORTS BLITZ UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577927
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT PSL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="UK",UK - SUPERSPORT PSL UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577926
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT GOLF UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="UK",UK - SUPERSPORT GOLF UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577925
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT GRANDSTAND UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="UK",UK - SUPERSPORT GRANDSTAND UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577924
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport2.png" group-title="UK",UK - SUPERSPORT VARIETY 2 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577923
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport1.png" group-title="UK",UK - SUPERSPORT VARIETY 1 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577922
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT MOTORSPORT UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="UK",UK - SUPERSPORT MOTORSPORT UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577921
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT FOOTBALL UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="UK",UK - SUPERSPORT FOOTBALL UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577920
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 4 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport4.png" group-title="UK",UK - SUPERSPORT VARIETY 4 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577919
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT VARIETY 3 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport3.png" group-title="UK",UK - SUPERSPORT VARIETY 3 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577918
+#EXTINF:-1 tvg-id="" tvg-name="UK - SUPERSPORT RUGBY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supersport.png" group-title="UK",UK - SUPERSPORT RUGBY UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/577917
+
+#EXTINF:-1 tvg-id="" tvg-name="##### GENERAL LOW QUALITY SD #####" tvg-logo="http://102.222.215.125:25461/dinothanks.mp4" group-title="FRANCE",##### GENERAL LOW QUALITY SD #####
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/627038
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR - TF 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/tf1hd.png" group-title="FRANCE",FR - TF 1
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543147
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR - M6" tvg-logo="http://logo.protv.cc/picons-dino/logos/m6hd.png" group-title="FRANCE",FR - M6
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543159
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR - FRANCE 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/france2hd.png" group-title="FRANCE",FR - FRANCE 2
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543149
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR - FRANCE 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/france3hd.png" group-title="FRANCE",FR - FRANCE 3
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543151
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR - FRANCE 4" tvg-logo="http://logo.protv.cc/picons-dino/logos/france4.png" group-title="FRANCE",FR - FRANCE 4
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543153
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR - FRANCE 5" tvg-logo="http://logo.protv.cc/picons-dino/logos/france5.png" group-title="FRANCE",FR - FRANCE 5
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543155
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="FR - TV5 MONDE" tvg-logo="http://logo.protv.cc/picons-dino/logos/tv5mondehd.png" group-title="FRANCE",FR - TV5 MONDE
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543247
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="FR - C8" tvg-logo="http://logo.protv.cc/picons-dino/logos/c8.png" group-title="FRANCE",FR - C8
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543165
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="FR - W9" tvg-logo="http://logo.protv.cc/picons-dino/logos/w9hd.png" group-title="FRANCE",FR - W9
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543167
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="FR - TF1 SERIES" tvg-logo="http://logo.protv.cc/picons-dino/logos/tf1seriesfilms.png" group-title="FRANCE",FR - TF1 SERIES
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543163
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="FR - CHERIE 25" tvg-logo="http://logo.protv.cc/picons-dino/logos/cherie25.png" group-title="FRANCE",FR - CHERIE 25
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543207
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR - TFX" tvg-logo="http://logo.protv.cc/picons-dino/logos/tfx.png" group-title="FRANCE",FR - TFX
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543161
+#EXTINF:-1 tvg-id="" tvg-name="FR - RTL 9" tvg-logo="http://logo.protv.cc/picons-dino/logos/rtl9hd.png" group-title="FRANCE",FR - RTL 9
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543185
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="FR - AB1" tvg-logo="http://logo.protv.cc/picons-dino/logos/ab1.png" group-title="FRANCE",FR - AB1
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543213
+#EXTINF:-1 tvg-id="AB3.fr" tvg-name="FR - AB3" tvg-logo="http://logo.protv.cc/picons-dino/logos/ab3.png" group-title="FRANCE",FR - AB3
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543215
+#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name="FR - TV BREIZH" tvg-logo="http://logo.protv.cc/picons-dino/logos/tvbreizhhd.png" group-title="FRANCE",FR - TV BREIZH
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/587372
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="FR - 13 EME RUE" tvg-logo="http://logo.protv.cc/picons-dino/logos/13emeruehd.png" group-title="FRANCE",FR - 13 EME RUE
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543177
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="FR - TREK" tvg-logo="http://logo.protv.cc/picons-dino/logos/trek.png" group-title="",FR - TREK
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/248880
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="FR - BET" tvg-logo="http://logo.protv.cc/picons-dino/logos/bethdfrance.png" group-title="FRANCE",FR - BET
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543222
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR - ARTE" tvg-logo="http://logo.protv.cc/picons-dino/logos/artehd.png" group-title="FRANCE",FR - ARTE
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543195
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR - TEVA" tvg-logo="http://logo.protv.cc/picons-dino/logos/tevahd.png" group-title="FRANCE",FR - TEVA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543183
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="FR - PARIS PREMIERE" tvg-logo="http://logo.protv.cc/picons-dino/logos/parispremierehd.png" group-title="FRANCE",FR - PARIS PREMIERE
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543219
+#EXTINF:-1 tvg-id="" tvg-name="FR - NOVELAS" tvg-logo="http://logo.protv.cc/picons-dino/logos/novelastv.png" group-title="FRANCE",FR - NOVELAS
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543199
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-name="FR - RTS UNE" tvg-logo="http://logo.protv.cc/picons-dino/logos/rtsunhd.png" group-title="FRANCE",FR - RTS UNE
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543187
+#EXTINF:-1 tvg-id="RTS2.ch" tvg-name="FR - RTS DEUX" tvg-logo="http://logo.protv.cc/picons-dino/logos/rtsdeuxhd.png" group-title="FRANCE",FR - RTS DEUX
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543189
+#EXTINF:-1 tvg-id="" tvg-name="FR - COMÉDIE " tvg-logo="" group-title="|FR| PLUTO TV UHD",FR - COMÉDIE 
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/593781
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="FR - GAME ONE" tvg-logo="http://logo.protv.cc/picons-dino/logos/gameone.png" group-title="|EU| FRANCE KIDS",FR - GAME ONE
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543347
+#EXTINF:-1 tvg-id="" tvg-name="##### GENERAL HIGHT QUALITY FHD #####" tvg-logo="http://102.222.215.125:25461/dinothanks.mp4" group-title="FRANCE",##### GENERAL HIGHT QUALITY FHD #####
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543281
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR - TF1 FHD ◉" tvg-logo="http://logo.protv.cc/picons-dino/logos/tf1hd.png" group-title="FRANCE",FR - TF1 FHD ◉
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553959
+#EXTINF:-1 tvg-id="" tvg-name="FR - TF1 +1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TF1-PLUS1.png" group-title="FRANCE",FR - TF1 +1 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/629688
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR - M6 FHD ◉" tvg-logo="http://logo.protv.cc/picons-dino/logos/m6hd.png" group-title="FRANCE",FR - M6 FHD ◉
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553964
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR - FRANCE 2 FHD ◉" tvg-logo="http://logo.protv.cc/picons-dino/logos/france2hd.png" group-title="FRANCE",FR - FRANCE 2 FHD ◉
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553960
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR - FRANCE 3 FHD ◉" tvg-logo="http://logo.protv.cc/picons-dino/logos/france3hd.png" group-title="FRANCE",FR - FRANCE 3 FHD ◉
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553961
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR - FRANCE 4 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/france4.png" group-title="FRANCE",FR - FRANCE 4 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553962
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR - FRANCE 5 FHD ◉" tvg-logo="http://logo.protv.cc/picons-dino/logos/france5.png" group-title="FRANCE",FR - FRANCE 5 FHD ◉
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553963
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="FR - C8 FHD ◉" tvg-logo="http://logo.protv.cc/picons-dino/logos/c8.png" group-title="FRANCE",FR - C8 FHD ◉
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553967
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR - 6TER FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/6ter.png" group-title="FRANCE",FR - 6TER FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553968
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="FR - TF1 SERIES FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tf1seriesfilms.png" group-title="FRANCE",FR - TF1 SERIES FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553969
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="FR - CHERIE 25 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cherie25.png" group-title="FRANCE",FR - CHERIE 25 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553979
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="FR - W9 FHD ◉" tvg-logo="http://logo.protv.cc/picons-dino/logos/w9hd.png" group-title="FRANCE",FR - W9 FHD ◉
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553966
+#EXTINF:-1 tvg-id="" tvg-name="FR - TMC FHD" tvg-logo="" group-title="FRANCE",FR - TMC FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/629689
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR - TFX FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tfx.png" group-title="FRANCE",FR - TFX FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553970
+#EXTINF:-1 tvg-id="" tvg-name="FR - RTL 9 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/rtl9hd.png" group-title="FRANCE",FR - RTL 9 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553990
+#EXTINF:-1 tvg-id="" tvg-name="FR - AB1 FHD" tvg-logo="" group-title="FRANCE",FR - AB1 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/629702
+#EXTINF:-1 tvg-id="" tvg-name="FR - AB3 FHD" tvg-logo="" group-title="FRANCE",FR - AB3 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/629703
+#EXTINF:-1 tvg-id="" tvg-name="FR - TV BREIZH FHD" tvg-logo="" group-title="FRANCE",FR - TV BREIZH FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/629704
+#EXTINF:-1 tvg-id="" tvg-name="FR - TREK FHD" tvg-logo="" group-title="FRANCE",FR - TREK FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/629707
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="FR - BET FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bet.png" group-title="FRANCE",FR - BET FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553978
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR - ARTE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/artehd.png" group-title="FRANCE",FR - ARTE FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553965
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="FR - PARIS PREMIERE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/parispremierehd.png" group-title="FRANCE",FR - PARIS PREMIERE FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553980
+#EXTINF:-1 tvg-id="" tvg-name="FR - NOVELAS TV FHD" tvg-logo="https://logo.protv.cc/picons/logos/novelastv.png" group-title="FRANCE",FR - NOVELAS TV FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/629701
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="FR - 13 EMERUE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/13emeruehd.png" group-title="FRANCE",FR - 13 EMERUE FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553976
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="FR - COMEDIE+ FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/comedieplushd.png" group-title="FRANCE",FR - COMEDIE+ FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/554041
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR - TEVA FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tevahd.png" group-title="FRANCE",FR - TEVA FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553977
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="FR - CRIME DISTRICT HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/crimedistrict.png" group-title="FRANCE",FR - CRIME DISTRICT HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/629548
+#EXTINF:-1 tvg-id="" tvg-name="FR - NAT GEO WILD FHD" tvg-logo="" group-title="FRANCE",FR - NAT GEO WILD FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/629706
+#EXTINF:-1 tvg-id="" tvg-name="FR - CRIME DISTRICT FHD" tvg-logo="" group-title="FRANCE",FR - CRIME DISTRICT FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/629705
+#EXTINF:-1 tvg-id="" tvg-name="FR - BFM GRAND LITTORAL FHD" tvg-logo="" group-title="FRANCE",FR - BFM GRAND LITTORAL FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/629693
+#EXTINF:-1 tvg-id="" tvg-name="FR - WEO HD" tvg-logo="" group-title="FRANCE",FR - WEO HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/629692
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="FR - NRJ 12 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/nrj12.png" group-title="FRANCE",FR - NRJ 12 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/629691
+#EXTINF:-1 tvg-id="" tvg-name="FR - ONE TV HD" tvg-logo="" group-title="FRANCE",FR - ONE TV HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/629547
+#EXTINF:-1 tvg-id="" tvg-name="FR - GUYANE 1ERE HD" tvg-logo="" group-title="FRANCE",FR - GUYANE 1ERE HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/648403
+#EXTINF:-1 tvg-id="" tvg-name="FR - ANTENNE REUNION" tvg-logo="http://logo.protv.cc/picons/logos/ANTENNE-REUNION.jpeg" group-title="FRANCE",FR - ANTENNE REUNION
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/698481
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 ALPES HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 ALPES HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695032
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 COTE D\'AZUR HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 COTE D\'AZUR HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/673542
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 ALSACE HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 ALSACE HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695031
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 AQUITAINE HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 AQUITAINE HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695030
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 AUVERGNE HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 AUVERGNE HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695029
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 BNORMANDIE HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 BNORMANDIE HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695028
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 BOURGOGNE HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 BOURGOGNE HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695027
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 BRETAGNE HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 BRETAGNE HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695026
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 CENTRE HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 CENTRE HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695025
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 CHAMP ARDENNE HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 CHAMP ARDENNE HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695024
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 CORSEVIASTELLA HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 CORSEVIASTELLA HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695023
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 COTE D\'AZUR HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 COTE D\'AZUR HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695022
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 FRANCHE COMTE HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 FRANCHE COMTE HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695021
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 HNORMANDIE HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 HNORMANDIE HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695020
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 LANGUEDOCROU HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 LANGUEDOCROU HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695019
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 LIMOUSIN HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 LIMOUSIN HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695018
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 LORRAINE HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 LORRAINE HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695017
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 MIDI PYRENEES HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 MIDI PYRENEES HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695016
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 NORD PDC HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 NORD PDC HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695015
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 PARIS IDF HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 PARIS IDF HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695014
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 PAYS DE LA LOIRE HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 PAYS DE LA LOIRE HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695013
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 PICARDIE HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 PICARDIE HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695012
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 POITOUCHAR HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 POITOUCHAR HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695011
+#EXTINF:-1 tvg-id="" tvg-name="FR - F3 PROV ALPES HD" tvg-logo="http://logo.protv.cc/picons/logos/regiones.jpg" group-title="FRANCE",FR - F3 PROV ALPES HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/695010
+
+#EXTINF:-1 tvg-id="" tvg-name="##### NEWS LOW QUALITY SD #####" tvg-logo="" group-title="FRANCE",##### NEWS LOW QUALITY SD #####
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/627928
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="FR - FRANCE INFO" tvg-logo="http://logo.protv.cc/picons-dino/logos/franceinfohd.png" group-title="FRANCE",FR - FRANCE INFO
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543234
+#EXTINF:-1 tvg-id="NonStopPeople.fr" tvg-name="FR - NON STOP PEOPLE" tvg-logo="http://logo.protv.cc/picons-dino/logos/nonstoppeoplehd.png" group-title="FRANCE",FR - NON STOP PEOPLE
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543203
+#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="FR - LA CHAINE METEO" tvg-logo="http://logo.protv.cc/picons-dino/logos/lachainemeteohd.png" group-title="FRANCE",FR - LA CHAINE METEO
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543228
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="FR - C NEWS" tvg-logo="http://logo.protv.cc/picons-dino/logos/cnews.png" group-title="FRANCE",FR - C NEWS
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543232
+#EXTINF:-1 tvg-id="I24News.fr" tvg-name="FR - I24 NEWS" tvg-logo="http://logo.protv.cc/picons-dino/logos/i24newshdfrench.png" group-title="FRANCE",FR - I24 NEWS
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543249
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="FR - LCI" tvg-logo="http://logo.protv.cc/picons-dino/logos/lcihd.png" group-title="FRANCE",FR - LCI
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543242
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="FR - LCP" tvg-logo="http://logo.protv.cc/picons-dino/logos/lcphd.png" group-title="FRANCE",FR - LCP
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543244
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="FR - BFM TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/BFM-TV.png" group-title="FRANCE",FR - BFM TV
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543230
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="FR - BFM PARIS" tvg-logo="http://logo.protv.cc/picons-dino/logos/bfmparis.png" group-title="FRANCE",FR - BFM PARIS
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543238
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="FR - BFM BUSINESS" tvg-logo="http://logo.protv.cc/picons-dino/logos/bfmbusiness.png" group-title="FRANCE",FR - BFM BUSINESS
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543236
+#EXTINF:-1 tvg-id="" tvg-name="##### NEWS HIGHT QUALITY FHD #####" tvg-logo="" group-title="FRANCE",##### NEWS HIGHT QUALITY FHD #####
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543283
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="FR - FRANCE24 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/france24hdenfrancais.png" group-title="FRANCE",FR - FRANCE24 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543245
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="FR - FRANCE INFO FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/franceinfohd.png" group-title="FRANCE",FR - FRANCE INFO FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543233
+#EXTINF:-1 tvg-id="NonStopPeople.fr" tvg-name="FR - NON STOP PEOPLE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/nonstoppeoplehd.png" group-title="FRANCE",FR - NON STOP PEOPLE FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553975
+#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="FR - LA CHAINE METEO FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/lachainemeteohd.png" group-title="FRANCE",FR - LA CHAINE METEO FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553993
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="FR - EURONEWS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/euronews.png" group-title="FRANCE",FR - EURONEWS FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543251
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="FR - C NEWS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cnews.png" group-title="FRANCE",FR - C NEWS FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543231
+#EXTINF:-1 tvg-id="I24News.fr" tvg-name="FR - I24 NEWS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/i24newshdfrench.png" group-title="FRANCE",FR - I24 NEWS FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543248
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="FR - LCI HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/lcihd.png" group-title="FRANCE",FR - LCI HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553994
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="FR - LCP FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/lcphd.png" group-title="FRANCE",FR - LCP FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/553995
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="FR - BFM TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BFM-TV.png" group-title="FRANCE",FR - BFM TV FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543229
+#EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="FR - RT FRANCE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/rtfrance.png" group-title="FRANCE",FR - RT FRANCE FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543250
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="FR - BFM PARIS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bfmparis.png" group-title="FRANCE",FR - BFM PARIS FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543237
+#EXTINF:-1 tvg-id="" tvg-name="FR - BFM LYON FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bfmlyon.png" group-title="FRANCE",FR - BFM LYON FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543239
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="FR - BFM BUSINESS FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bfmbusiness.png" group-title="FRANCE",FR - BFM BUSINESS FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543235
+#EXTINF:-1 tvg-id="" tvg-name="FR| BFM LILLE" tvg-logo="http://logo.protv.cc/picons/logos/BFM-LILLE.png" group-title="|EU| FRANCE GENERAL",FR| BFM LILLE
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/673330
+#EXTINF:-1 tvg-id="" tvg-name="FR - BFM LYON" tvg-logo="http://logo.protv.cc/picons-dino/logos/bfmlyon.png" group-title="FRANCE",FR - BFM LYON
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/543240
+
+T - SKY SPORT SOLO MOTORI" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport.png" group-title="ITALY",IT - SKY SPORT SOLO MOTORI
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601809
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="IT - SKY SPORT UNO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportunohd.png" group-title="ITALY",IT - SKY SPORT UNO UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601808
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="IT - SKY SPORT UNO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportunohd.png" group-title="ITALY",IT - SKY SPORT UNO HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601807
+#EXTINF:-1 tvg-id="SkySportUno.it" tvg-name="IT - SKY SPORT UNO SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportunohd.png" group-title="ITALY",IT - SKY SPORT UNO SD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601806
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT ITALIA" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport.png" group-title="ITALY",IT - SKY SPORT ITALIA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601805
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport.png" group-title="ITALY",IT - SKY SPORT HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601804
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT LIVE 24" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport24hd.png" group-title="ITALY",IT - SKY SPORT LIVE 24
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601803
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="IT - SKY SUPER TENNIS UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supertennishd.png" group-title="ITALY",IT - SKY SUPER TENNIS UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601802
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="IT - SKY SUPER TENNIS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/supertennishd.png" group-title="ITALY",IT - SKY SUPER TENNIS HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601801
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORTPLUS" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportplus-phibruspel.png" group-title="ITALY",IT - SKY SPORTPLUS
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601800
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY ACI SPORT TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/ACI-SPORT-TV.jpeg" group-title="ITALY",IT - SKY ACI SPORT TV
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601799
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="IT - RAI SPORT UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/raisport.png" group-title="ITALY",IT - RAI SPORT UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601798
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="IT - RAI SPORT HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/raisport.png" group-title="ITALY",IT - RAI SPORT HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601797
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY DONNA TV SPORT" tvg-logo="http://logo.protv.cc/picons-dino/logos/donnatv.png" group-title="ITALY",IT - SKY DONNA TV SPORT
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601796
+#EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT - DAZN CHANNEL HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="ITALY",IT - DAZN CHANNEL HEVC
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/604053
+#EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT - DAZN CHANNEL HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="ITALY",IT - DAZN CHANNEL HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/604051
+#EXTINF:-1 tvg-id="DAZN.it" tvg-name="IT - DAZN CHANNEL SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="ITALY",IT - DAZN CHANNEL SD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/604050
+#EXTINF:-1 tvg-id="" tvg-name="IT - NFL DAZN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="ITALY",IT - NFL DAZN UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/604049
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY DAZN BAR UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn1barhd.png" group-title="ITALY",IT - SKY DAZN BAR UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601795
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY DAZN BAR HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn1barhd.png" group-title="ITALY",IT - SKY DAZN BAR HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601794
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY DAZN BAR SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn1barhd.png" group-title="ITALY",IT - SKY DAZN BAR SD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601793
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY VETRINA DAZN" tvg-logo="http://logo.protv.cc/picons-dino/logos/VETRINA-DAZN.png" group-title="ITALY",IT - SKY VETRINA DAZN
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601792
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY DAZN WEB 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn1.png" group-title="ITALY",IT - SKY DAZN WEB 1 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601791
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY DAZN WEB 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn2.png" group-title="ITALY",IT - SKY DAZN WEB 2 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601790
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY DAZN WEB 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="ITALY",IT - SKY DAZN WEB 3 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601789
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY DAZN WEB 4 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="ITALY",IT - SKY DAZN WEB 4 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601788
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY DAZN WEB 5 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="ITALY",IT - SKY DAZN WEB 5 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601787
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY DAZN WEB 6 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="ITALY",IT - SKY DAZN WEB 6 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601786
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY DAZN WEB 7 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="ITALY",IT - SKY DAZN WEB 7 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601785
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY DAZN WEB 8 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="ITALY",IT - SKY DAZN WEB 8 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601784
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY DAZN WEB 9 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="ITALY",IT - SKY DAZN WEB 9 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601783
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY DAZN WEB 10 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="ITALY",IT - SKY DAZN WEB 10 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601782
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY DAZN WEB 11 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="ITALY",IT - SKY DAZN WEB 11 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601781
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT BAR UNO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportuno.png" group-title="ITALY",IT - SKY SPORT BAR UNO UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603943
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT BAR UNO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportuno.png" group-title="ITALY",IT - SKY SPORT BAR UNO HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603942
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT BAR UNO SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysportuno.png" group-title="ITALY",IT - SKY SPORT BAR UNO SD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603941
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT BAR DUE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport2hd.png" group-title="ITALY",IT - SKY SPORT BAR DUE UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603940
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT BAR DUE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport2hd.png" group-title="ITALY",IT - SKY SPORT BAR DUE HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603939
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT BAR DUE SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport2.png" group-title="ITALY",IT - SKY SPORT BAR DUE SD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603938
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT BAR PRIMEVIDEO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/ligue1.png" group-title="ITALY",IT - SKY SPORT BAR PRIMEVIDEO UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603937
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT BAR PRIMEVIDEO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/ligue1.png" group-title="ITALY",IT - SKY SPORT BAR PRIMEVIDEO HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603936
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORT BAR PRIMEVIDEO SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/ligue1.png" group-title="ITALY",IT - SKY SPORT BAR PRIMEVIDEO SD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603935
+#EXTINF:-1 tvg-id="" tvg-name="IT - CHAMPIONS LEAGUE INFINITY 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="ITALY",IT - CHAMPIONS LEAGUE INFINITY 1 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603108
+#EXTINF:-1 tvg-id="" tvg-name="IT - CHAMPIONS LEAGUE INFINITY 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="ITALY",IT - CHAMPIONS LEAGUE INFINITY 2 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603107
+#EXTINF:-1 tvg-id="" tvg-name="IT - CHAMPIONS LEAGUE INFINITY 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="ITALY",IT - CHAMPIONS LEAGUE INFINITY 3 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603106
+#EXTINF:-1 tvg-id="" tvg-name="IT - CHAMPIONS LEAGUE INFINITY 4 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="ITALY",IT - CHAMPIONS LEAGUE INFINITY 4 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603105
+#EXTINF:-1 tvg-id="" tvg-name="IT - CHAMPIONS LEAGUE INFINITY 5 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="ITALY",IT - CHAMPIONS LEAGUE INFINITY 5 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603104
+#EXTINF:-1 tvg-id="" tvg-name="IT - CHAMPIONS LEAGUE INFINITY 6 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="ITALY",IT - CHAMPIONS LEAGUE INFINITY 6 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603103
+#EXTINF:-1 tvg-id="" tvg-name="IT - CHAMPIONS LEAGUE INFINITY 7 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="ITALY",IT - CHAMPIONS LEAGUE INFINITY 7 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603102
+#EXTINF:-1 tvg-id="" tvg-name="IT - CHAMPIONS LEAGUE INFINITY 8 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="ITALY",IT - CHAMPIONS LEAGUE INFINITY 8 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603101
+#EXTINF:-1 tvg-id="" tvg-name="IT - CHAMPIONS LEAGUE INFINITY 9 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="ITALY",IT - CHAMPIONS LEAGUE INFINITY 9 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603100
+#EXTINF:-1 tvg-id="" tvg-name="IT - CHAMPIONS LEAGUE INFINITY 10 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="ITALY",IT - CHAMPIONS LEAGUE INFINITY 10 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603099
+#EXTINF:-1 tvg-id="" tvg-name="IT - CHAMPIONS LEAGUE INFINITY 11 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="ITALY",IT - CHAMPIONS LEAGUE INFINITY 11 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603098
+#EXTINF:-1 tvg-id="" tvg-name="IT - CHAMPIONS LEAGUE INFINITY 12 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CHAMPIONS-LEAGUE.png" group-title="ITALY",IT - CHAMPIONS LEAGUE INFINITY 12 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/603097
+#EXTINF:-1 tvg-id="Eurosport.it" tvg-name="IT - SKY EUROSPORT 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport1hd.png" group-title="ITALY",IT - SKY EUROSPORT 1 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601780
+#EXTINF:-1 tvg-id="Eurosport.it" tvg-name="IT - SKY EUROSPORT 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport1hd.png" group-title="ITALY",IT - SKY EUROSPORT 1 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601779
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="IT - SKY EUROSPORT 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport2hd.png" group-title="ITALY",IT - SKY EUROSPORT 2 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601778
+#EXTINF:-1 tvg-id="Eurosport2.it" tvg-name="IT - SKY EUROSPORT 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport2hd.png" group-title="ITALY",IT - SKY EUROSPORT 2 HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601777
+#EXTINF:-1 tvg-id="" tvg-name="IT - EUROSPORT PLAYER LIVE 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/Eurosport.png" group-title="ITALY",IT - EUROSPORT PLAYER LIVE 1
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601776
+#EXTINF:-1 tvg-id="" tvg-name="IT - EUROSPORT PLAYER LIVE 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/Eurosport.png" group-title="ITALY",IT - EUROSPORT PLAYER LIVE 2
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601775
+#EXTINF:-1 tvg-id="" tvg-name="IT - EUROSPORT PLAYER LIVE 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/Eurosport.png" group-title="ITALY",IT - EUROSPORT PLAYER LIVE 3
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601774
+#EXTINF:-1 tvg-id="" tvg-name="IT - EUROSPORT PLAYER LIVE 4" tvg-logo="http://logo.protv.cc/picons-dino/logos/Eurosport.png" group-title="ITALY",IT - EUROSPORT PLAYER LIVE 4
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601773
+#EXTINF:-1 tvg-id="" tvg-name="IT - EUROSPORT PLAYER LIVE 5" tvg-logo="http://logo.protv.cc/picons-dino/logos/Eurosport.png" group-title="ITALY",IT - EUROSPORT PLAYER LIVE 5
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601772
+#EXTINF:-1 tvg-id="" tvg-name="IT - EUROSPORT PLAYER LIVE 6" tvg-logo="http://logo.protv.cc/picons-dino/logos/Eurosport.png" group-title="ITALY",IT - EUROSPORT PLAYER LIVE 6
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601771
+#EXTINF:-1 tvg-id="" tvg-name="IT - EUROSPORT PLAYER LIVE 7" tvg-logo="http://logo.protv.cc/picons-dino/logos/Eurosport.png" group-title="ITALY",IT - EUROSPORT PLAYER LIVE 7
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601770
+#EXTINF:-1 tvg-id="" tvg-name="IT - EUROSPORT PLAYER LIVE 8" tvg-logo="http://logo.protv.cc/picons-dino/logos/Eurosport.png" group-title="ITALY",IT - EUROSPORT PLAYER LIVE 8
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601769
+#EXTINF:-1 tvg-id="" tvg-name="IT - EUROSPORT PLAYER LIVE 9" tvg-logo="http://logo.protv.cc/picons-dino/logos/Eurosport.png" group-title="ITALY",IT - EUROSPORT PLAYER LIVE 9
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601768
+#EXTINF:-1 tvg-id="" tvg-name="IT - EUROSPORT PLAYER LIVE 10" tvg-logo="http://logo.protv.cc/picons-dino/logos/Eurosport.png" group-title="ITALY",IT - EUROSPORT PLAYER LIVE 10
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601767
+#EXTINF:-1 tvg-id="" tvg-name="IT - EUROSPORT PLAYER LIVE 11" tvg-logo="http://logo.protv.cc/picons-dino/logos/Eurosport.png" group-title="ITALY",IT - EUROSPORT PLAYER LIVE 11
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601766
+#EXTINF:-1 tvg-id="" tvg-name="IT - EUROSPORT PLAYER LIVE 12" tvg-logo="http://logo.protv.cc/picons-dino/logos/Eurosport.png" group-title="ITALY",IT - EUROSPORT PLAYER LIVE 12
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601765
+#EXTINF:-1 tvg-id="" tvg-name="IT - EUROSPORT PLAYER LIVE 13" tvg-logo="http://logo.protv.cc/picons-dino/logos/Eurosport.png" group-title="ITALY",IT - EUROSPORT PLAYER LIVE 13
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601764
+#EXTINF:-1 tvg-id="" tvg-name="IT - EUROSPORT PLAYER LIVE 14" tvg-logo="http://logo.protv.cc/picons-dino/logos/Eurosport.png" group-title="ITALY",IT - EUROSPORT PLAYER LIVE 14
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601763
+#EXTINF:-1 tvg-id="" tvg-name="IT - EUROSPORT PLAYER LIVE 15" tvg-logo="http://logo.protv.cc/picons-dino/logos/Eurosport.png" group-title="ITALY",IT - EUROSPORT PLAYER LIVE 15
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601762
+#EXTINF:-1 tvg-id="" tvg-name="IT - EUROSPORT PLAYER LIVE 16" tvg-logo="http://logo.protv.cc/picons-dino/logos/Eurosport.png" group-title="ITALY",IT - EUROSPORT PLAYER LIVE 16
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601761
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT VOLLEY SUPERLEGA LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT VOLLEY SUPERLEGA LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601760
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT MOTOCICLISMO LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT MOTOCICLISMO LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601759
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT ESPORT LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT ESPORT LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601758
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT DTM LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT DTM LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601757
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT CICLISMO  LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT CICLISMO  LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601756
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT PALLANUOTO A1 MASCHILE LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT PALLANUOTO A1 MASCHILE LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601755
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT PALLANUOTO A1 FEMMNILE LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT PALLANUOTO A1 FEMMNILE LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601754
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT PALLANUOTO 4 NAZIONI LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT PALLANUOTO 4 NAZIONI LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601753
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT PALLAMANO CHAMPION LEAGUE LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT PALLAMANO CHAMPION LEAGUE LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601752
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT PALLAMANO BUNDESLIGA LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT PALLAMANO BUNDESLIGA LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601751
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT PALLAMANO COPPA ITALIA LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT PALLAMANO COPPA ITALIA LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601750
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT PALLAMANO NAZIONI LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT PALLAMANO NAZIONI LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601749
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT HOCKEY PISTA A1 LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT HOCKEY PISTA A1 LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601748
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT FIGHTING BOXE LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT FIGHTING BOXE LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601747
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT FIGHTING KICK BOXING LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT FIGHTING KICK BOXING LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601746
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT FIGHTING CAGE WARRIORS LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT FIGHTING CAGE WARRIORS LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601745
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT DCL DRONE CHAMPIONS LEAGUE LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT DCL DRONE CHAMPIONS LEAGUE LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601744
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT SOFTBALL LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT SOFTBALL LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601743
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT ATLETICA LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT ATLETICA LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601742
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT SAFILENS PADEL EVO LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT SAFILENS PADEL EVO LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601741
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT CRICKET LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT CRICKET LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601740
+#EXTINF:-1 tvg-id="" tvg-name="IT - ELEVEN SPORT BADMINTON LIVE + REPLICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/ELEVEN-SPORTS-HD.png" group-title="ITALY",IT - ELEVEN SPORT BADMINTON LIVE + REPLICA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601739
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY SPORTOUTDOOR.TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/skysport.png" group-title="ITALY",IT - SKY SPORTOUTDOOR.TV
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601738
+#EXTINF:-1 tvg-id="InterChannel.it" tvg-name="IT - SKY INTER UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/INTER-CHANNEL.jpg" group-title="ITALY",IT - SKY INTER UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601737
+#EXTINF:-1 tvg-id="Laeffe.it" tvg-name="IT - SKY LAEFFE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laeffe.png" group-title="ITALY",IT - SKY LAEFFE UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601736
+#EXTINF:-1 tvg-id="Laeffe.it" tvg-name="IT - SKY LAEFFE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laeffe.png" group-title="ITALY",IT - SKY LAEFFE HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601735
+#EXTINF:-1 tvg-id="" tvg-name="IT - SKY LAZIO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LAZIO-CHANNEL.png" group-title="ITALY",IT - SKY LAZIO UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601734
+#EXTINF:-1 tvg-id="MilanTV.it" tvg-name="IT - SKY MILAN UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MILAN-CHANNEL.png" group-title="ITALY",IT - SKY MILAN UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601733
+#EXTINF:-1 tvg-id="ClassHorseTV.it" tvg-name="IT - CLASS HORSE TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/classhorsetv.png" group-title="ITALY",IT - CLASS HORSE TV HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601732
+#EXTINF:-1 tvg-id="ClassHorseTV.it" tvg-name="IT - SKY HORSE TV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/classhorsetv.png" group-title="ITALY",IT - SKY HORSE TV UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601731
+#EXTINF:-1 tvg-id="" tvg-name="###### BAMBINI HD/UHD ######" tvg-logo="" group-title="ITALY",###### BAMBINI HD/UHD ######
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601730
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="IT - RAI GULP UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/raigulphd.png" group-title="ITALY",IT - RAI GULP UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601729
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="IT - RAI GULP HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/raigulphd.png" group-title="ITALY",IT - RAI GULP HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601728
+#EXTINF:-1 tvg-id="" tvg-name="IT - FAMILY" tvg-logo="http://logo.protv.cc/picons-dino/logos/FAMILY-TV.jpeg" group-title="ITALY",IT - FAMILY
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601727
+#EXTINF:-1 tvg-id="" tvg-name="IT - TELETUBBIES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/teletubbies.jpg" group-title="ITALY",IT - TELETUBBIES HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601726
+#EXTINF:-1 tvg-id="Super.it" tvg-name="IT - SUPER!" tvg-logo="http://logo.protv.cc/picons-dino/logos/SUPER!.png" group-title="ITALY",IT - SUPER!
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601725
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="IT - BOING" tvg-logo="http://logo.protv.cc/picons-dino/logos/boing.png" group-title="ITALY",IT - BOING
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601724
+#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="IT - BABY TV UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BABY-TV.jpeg" group-title="ITALY",IT - BABY TV UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601723
+#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="IT - BOOMERANG UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BOOMERANG-HD.png" group-title="ITALY",IT - BOOMERANG UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601722
+#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="IT - BOOMERANG HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/BOOMERANG-HD.png" group-title="ITALY",IT - BOOMERANG HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601721
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="IT - CARTOON NETWORK UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CARTOON-NETWORK-HD.png" group-title="ITALY",IT - CARTOON NETWORK UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601720
+#EXTINF:-1 tvg-id="CartoonNetwork.it" tvg-name="IT - CARTOON NETWORK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CARTOON-NETWORK-HD.png" group-title="ITALY",IT - CARTOON NETWORK HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601719
+#EXTINF:-1 tvg-id="" tvg-name="IT - YAMATO ANIMATION" tvg-logo="http://logo.protv.cc/picons-dino/logos/YAMATO-ANIMATION.jpeg" group-title="ITALY",IT - YAMATO ANIMATION
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601718
+#EXTINF:-1 tvg-id="" tvg-name="IT - AMUSE ANIMATION" tvg-logo="http://logo.protv.cc/picons-dino/logos/AMUSE-ANIMATION.png" group-title="ITALY",IT - AMUSE ANIMATION
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601717
+#EXTINF:-1 tvg-id="" tvg-name="IT - DUCKTV" tvg-logo="http://logo.protv.cc/picons-dino/logos/ducktv.png" group-title="ITALY",IT - DUCKTV
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601716
+#EXTINF:-1 tvg-id="BabyTV.it" tvg-name="IT - BABY TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/BABY-TV.jpeg" group-title="ITALY",IT - BABY TV
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601715
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="IT - CARTOONITO" tvg-logo="http://logo.protv.cc/picons-dino/logos/cartoonito.png" group-title="ITALY",IT - CARTOONITO
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601714
+#EXTINF:-1 tvg-id="" tvg-name="IT - BOING PLUS" tvg-logo="http://logo.protv.cc/picons-dino/logos/boingplus.jpg" group-title="ITALY",IT - BOING PLUS
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601713
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="IT - RAI YOYO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/raiyoyohd.png" group-title="ITALY",IT - RAI YOYO UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601712
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="IT - RAI YOYO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/raiyoyohd.png" group-title="ITALY",IT - RAI YOYO HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601711
+#EXTINF:-1 tvg-id="K2.it" tvg-name="IT - K2" tvg-logo="http://logo.protv.cc/picons-dino/logos/k2.png" group-title="ITALY",IT - K2
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601707
+#EXTINF:-1 tvg-id="NickJunior.it" tvg-name="IT - NICK JR SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/nickjr.png" group-title="ITALY",IT - NICK JR SD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601706
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="IT - NICKELODEON SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/nickelodeon.png" group-title="ITALY",IT - NICKELODEON SD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601705
+#EXTINF:-1 tvg-id="" tvg-name="IT - FRISBEE MINI" tvg-logo="http://logo.protv.cc/picons-dino/logos/frisbee.png" group-title="ITALY",IT - FRISBEE MINI
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601700
+#EXTINF:-1 tvg-id="NickJunior.it" tvg-name="IT - NICK JR UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NICK-JR-HD.png" group-title="ITALY",IT - NICK JR UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601699
+#EXTINF:-1 tvg-id="NickJunior.it" tvg-name="IT - NICK JR HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NICK-JR-HD.png" group-title="ITALY",IT - NICK JR HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601698
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="IT - NICKELODEON UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NICKELODEON-HD.jpg" group-title="ITALY",IT - NICKELODEON UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601697
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="IT - NICKELODEON HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NICKELODEON-HD.jpg" group-title="ITALY",IT - NICKELODEON HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601696
+#EXTINF:-1 tvg-id="" tvg-name="IT - EAGLE CINEMA ANIMAZIONE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - EAGLE CINEMA ANIMAZIONE FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601695
+#EXTINF:-1 tvg-id="" tvg-name="IT - EAGLE DISNEY TOPOLINO PAPERINO E PIPPO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - EAGLE DISNEY TOPOLINO PAPERINO E PIPPO HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601694
+#EXTINF:-1 tvg-id="" tvg-name="IT - EAGLE DRAGON BALL Z CHANNEL FHD  (AUDIO-1.ITA-2.ENG)" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - EAGLE DRAGON BALL Z CHANNEL FHD  (AUDIO-1.ITA-2.ENG)
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601693
+#EXTINF:-1 tvg-id="" tvg-name="IT - EAGLE FIABE MAGICHE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - EAGLE FIABE MAGICHE HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601692
+#EXTINF:-1 tvg-id="" tvg-name="IT - EAGLE AMERICAN DAD 24H" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - EAGLE AMERICAN DAD 24H
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601691
+#EXTINF:-1 tvg-id="" tvg-name="IT - EAGLE BAMBINI BING HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - EAGLE BAMBINI BING HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601690
+#EXTINF:-1 tvg-id="" tvg-name="IT - EAGLE BRICKLEBERRY FHD 24H" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - EAGLE BRICKLEBERRY FHD 24H
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601689
+#EXTINF:-1 tvg-id="" tvg-name="IT - EAGLE LE FIABE DISNEY" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - EAGLE LE FIABE DISNEY
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601688
+#EXTINF:-1 tvg-id="" tvg-name="IT - EAGLE LOONEY TOONS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - EAGLE LOONEY TOONS HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601687
+#EXTINF:-1 tvg-id="" tvg-name="IT - EAGLE LUPIN III CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - EAGLE LUPIN III CHANNEL
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601686
+#EXTINF:-1 tvg-id="" tvg-name="IT - EAGLE MASHA E ORSO FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - EAGLE MASHA E ORSO FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601685
+#EXTINF:-1 tvg-id="" tvg-name="IT - EAGLE PEPPA PIG FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - EAGLE PEPPA PIG FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601684
+#EXTINF:-1 tvg-id="" tvg-name="IT - EAGLE PETER GRIFFIN 24H" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - EAGLE PETER GRIFFIN 24H
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601683
+#EXTINF:-1 tvg-id="" tvg-name="IT - EAGLE SCOOBY-DOO FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - EAGLE SCOOBY-DOO FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601682
+#EXTINF:-1 tvg-id="" tvg-name="IT - EAGLE SUPER PIGIAMINI FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - EAGLE SUPER PIGIAMINI FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601681
+#EXTINF:-1 tvg-id="" tvg-name="IT - KUNG FU PANDA FILM CHANNEL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/KUNG-FU-PANDA.png" group-title="ITALY",IT - KUNG FU PANDA FILM CHANNEL FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601680
+#EXTINF:-1 tvg-id="" tvg-name="IT - KUNG FU PANDA SERIES CHANNEL HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/KUNG-FU-PANDA.png" group-title="ITALY",IT - KUNG FU PANDA SERIES CHANNEL HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601679
+#EXTINF:-1 tvg-id="" tvg-name="IT - LA CASA DI TOPOLINO CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - LA CASA DI TOPOLINO CHANNEL
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601678
+#EXTINF:-1 tvg-id="" tvg-name="IT - SCUOLA DI POLIZIA CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - SCUOLA DI POLIZIA CHANNEL
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601677
+#EXTINF:-1 tvg-id="" tvg-name="IT - EAGLE PAOLO VILLAGIO CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - EAGLE PAOLO VILLAGIO CHANNEL
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601676
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="IT - FRISBEE" tvg-logo="http://logo.protv.cc/picons-dino/logos/frisbee.png" group-title="ITALY",IT - FRISBEE
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601675
+#EXTINF:-1 tvg-id="" tvg-name="###### DOCUMENTARIO HD/UHD ######" tvg-logo="" group-title="ITALY",###### DOCUMENTARIO HD/UHD ######
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601674
+#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="IT - SKY CRIME INVESTIGATION UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CI-CRIME-INVESTIGATION-HD.png" group-title="ITALY",IT - SKY CRIME INVESTIGATION UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601673
+#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="IT - SKY CRIME INVESTIGATION HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CI-CRIME-INVESTIGATION-HD.png" group-title="ITALY",IT - SKY CRIME INVESTIGATION HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601672
+#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="IT - SKY DISCOVERY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISCOVERY-HD.png" group-title="ITALY",IT - SKY DISCOVERY UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601671
+#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-name="IT - SKY DISCOVERY HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISCOVERY-HD.png" group-title="ITALY",IT - SKY DISCOVERY HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601670
+#EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="IT - SKY DISCOVERY SCI UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/discoverysciencehd.png" group-title="ITALY",IT - SKY DISCOVERY SCI UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601669
+#EXTINF:-1 tvg-id="DiscoveryScience.it" tvg-name="IT - SKY DISCOVERY SCI HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/discoverysciencehd.png" group-title="ITALY",IT - SKY DISCOVERY SCI HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601668
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="IT - SKY DMAX UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dmax.png" group-title="ITALY",IT - SKY DMAX UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601667
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="IT - SKY FOOD NETWORK UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foodnetwork.png" group-title="ITALY",IT - SKY FOOD NETWORK UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601666
+#EXTINF:-1 tvg-id="HistoryChannel.it" tvg-name="IT - SKY HISTORY UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skyhistory.png" group-title="ITALY",IT - SKY HISTORY UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601665
+#EXTINF:-1 tvg-id="HistoryChannel.it" tvg-name="IT - SKY HISTORY HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/skyhistory.png" group-title="ITALY",IT - SKY HISTORY HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601664
+#EXTINF:-1 tvg-id="NatGeo.it" tvg-name="IT - SKY NAT GEO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeohd.png" group-title="ITALY",IT - SKY NAT GEO UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601663
+#EXTINF:-1 tvg-id="NatGeo.it" tvg-name="IT - SKY NAT GEO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeohd.png" group-title="ITALY",IT - SKY NAT GEO HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601662
+#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="IT - SKY NAT GEO WILD UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeowildhd.png" group-title="ITALY",IT - SKY NAT GEO WILD UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601661
+#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="IT - SKY NAT GEO WILD HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeowildhd.png" group-title="ITALY",IT - SKY NAT GEO WILD HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601660
+#EXTINF:-1 tvg-id="NatGeoWild.it" tvg-name="IT - SKY NAT GEO WILD SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeowildhd.png" group-title="ITALY",IT - SKY NAT GEO WILD SD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601659
+#EXTINF:-1 tvg-id="" tvg-name="IT - HUMANITY DOCUMENTARI" tvg-logo="http://logo.protv.cc/picons-dino/logos/documentary.png" group-title="ITALY",IT - HUMANITY DOCUMENTARI
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601658
+#EXTINF:-1 tvg-id="CrimeInvestigation.it" tvg-name="IT - CRIME INVESTIGATION SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/CI-CRIME-INVESTIGATION-HD.png" group-title="ITALY",IT - CRIME INVESTIGATION SD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601657
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="IT - DMAX" tvg-logo="http://logo.protv.cc/picons-dino/logos/dmax.png" group-title="ITALY",IT - DMAX
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601656
+#EXTINF:-1 tvg-id="FocusTv.it" tvg-name="IT - FOCUS" tvg-logo="http://logo.protv.cc/picons-dino/logos/focus.png" group-title="ITALY",IT - FOCUS
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601655
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="IT - FOOD NETWORK" tvg-logo="http://logo.protv.cc/picons-dino/logos/FOOD-NETWORK-HD.jpg" group-title="ITALY",IT - FOOD NETWORK
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601654
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="IT - GIALLO" tvg-logo="http://logo.protv.cc/picons-dino/logos/giallo.png" group-title="ITALY",IT - GIALLO
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601653
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-name="IT - MOTOR TREND" tvg-logo="http://logo.protv.cc/picons-dino/logos/motortrend.png" group-title="ITALY",IT - MOTOR TREND
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601652
+#EXTINF:-1 tvg-id="NOVE.it" tvg-name="IT - NOVE" tvg-logo="http://logo.protv.cc/picons-dino/logos/nove.png" group-title="ITALY",IT - NOVE
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601651
+#EXTINF:-1 tvg-id="NOVE.it" tvg-name="IT - NOVE UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/NOVE-HD.jpg" group-title="ITALY",IT - NOVE UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601650
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="IT - REALTIME" tvg-logo="http://logo.protv.cc/picons-dino/logos/realtime.png" group-title="ITALY",IT - REALTIME
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601649
+#EXTINF:-1 tvg-id="" tvg-name="IT - ZELIG" tvg-logo="http://logo.protv.cc/picons-dino/logos/zeligtv.png" group-title="ITALY",IT - ZELIG
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601648
+#EXTINF:-1 tvg-id="HGTV.it" tvg-name="IT - HOME GARDEN TV HGTV" tvg-logo="http://logo.protv.cc/picons-dino/logos/HGTV-HD.png" group-title="ITALY",IT - HOME GARDEN TV HGTV
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601647
+#EXTINF:-1 tvg-id="" tvg-name="IT - EAGLE NATURE DISCOVERY UHD (DOUBLE AUDIO)" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - EAGLE NATURE DISCOVERY UHD (DOUBLE AUDIO)
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601646
+#EXTINF:-1 tvg-id="" tvg-name="IT - EAGLE NATURE EXPLORER UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - EAGLE NATURE EXPLORER UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601645
+#EXTINF:-1 tvg-id="" tvg-name="IT - DISNEY PLUS NATURE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-CHANNEL--.png" group-title="ITALY",IT - DISNEY PLUS NATURE HD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/601644
+
+#EXTINF:-1 tvg-id="" tvg-name="SW - 3+ UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/3+-HD.jpg" group-title="SWISS",SW - 3+ UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259409
+#EXTINF:-1 tvg-id="" tvg-name="SW - 4+ UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/4+-HD.png" group-title="SWISS",SW - 4+ UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259411
+#EXTINF:-1 tvg-id="" tvg-name="SW - 5+ UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/5+-HD.png" group-title="SWISS",SW - 5+ UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259413
+#EXTINF:-1 tvg-id="" tvg-name="SW - 6+ FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/6+-HD.jpeg" group-title="SWISS",SW - 6+ FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259414
+#EXTINF:-1 tvg-id="RSILA1.ch" tvg-name="SW - RSI LA 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/RSI-LA-1-HD.jpg" group-title="SWISS",SW - RSI LA 1 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259415
+#EXTINF:-1 tvg-id="RSILA2.ch" tvg-name="SW - RSI LA 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/RSI-LA-2-HD.jpeg" group-title="SWISS",SW - RSI LA 2 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259416
+#EXTINF:-1 tvg-id="" tvg-name="SW - DISNEY CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/disneychannel.png" group-title="SWISS",SW - DISNEY CHANNEL
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259420
+#EXTINF:-1 tvg-id="" tvg-name="SW - COMEDY CENTRAL/VIVA FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/comedycentralhd_vivahd.png" group-title="SWISS",SW - COMEDY CENTRAL/VIVA FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259421
+#EXTINF:-1 tvg-id="" tvg-name="SW - DISNEY CHANNEL" tvg-logo="http://logo.protv.cc/picons-dino/logos/disneychannel.png" group-title="SWISS",SW - DISNEY CHANNEL
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259422
+#EXTINF:-1 tvg-id="" tvg-name="SW - DISNEY JUNIOR UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/DISNEY-JUNIOR-HD.png" group-title="SWISS",SW - DISNEY JUNIOR UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259423
+#EXTINF:-1 tvg-id="" tvg-name="SW - LAC LEMAN" tvg-logo="http://logo.protv.cc/picons-dino/logos/LAC-LEMAN.png" group-title="SWISS",SW - LAC LEMAN
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259424
+#EXTINF:-1 tvg-id="" tvg-name="SW - PULS 8 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/puls.png" group-title="SWISS",SW - PULS 8 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259426
+#EXTINF:-1 tvg-id="" tvg-name="SW - PULS 8 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/puls.png" group-title="SWISS",SW - PULS 8 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259427
+#EXTINF:-1 tvg-id="S1.ch" tvg-name="SW - S1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/S1-HD.png" group-title="SWISS",SW - S1 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259428
+#EXTINF:-1 tvg-id="" tvg-name="SW - SCHWEIZ 5 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/schweiz5.png" group-title="SWISS",SW - SCHWEIZ 5 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259429
+#EXTINF:-1 tvg-id="ch.SRF 2" tvg-name="SW - SRF 2 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SRF-.jpeg" group-title="SWISS",SW - SRF 2 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259430
+#EXTINF:-1 tvg-id="ch.SRF 1" tvg-name="SW - SRF 1 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SRF-1-HD.png" group-title="SWISS",SW - SRF 1 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259431
+#EXTINF:-1 tvg-id="ch.SRF 2" tvg-name="SW - SRF 2 UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/SRF-.jpeg" group-title="SWISS",SW - SRF 2 UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259432
+#EXTINF:-1 tvg-id="ch.SRF info" tvg-name="SW - SRF INFO UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/srfinfohd.png" group-title="SWISS",SW - SRF INFO UHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259433
+#EXTINF:-1 tvg-id="StarTV.ch" tvg-name="SW - STAR TV FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/START-TV.jpg" group-title="SWISS",SW - STAR TV FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259434
+#EXTINF:-1 tvg-id="TeleclubAction.ch" tvg-name="SW - TC ACTION" tvg-logo="http://logo.protv.cc/picons-dino/logos/teleclubactionhd.png" group-title="SWISS",SW - TC ACTION
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259435
+#EXTINF:-1 tvg-id="TeleclubAction.ch" tvg-name="SW - TC ACTION FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/teleclubactionhd.png" group-title="SWISS",SW - TC ACTION FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259436
+#EXTINF:-1 tvg-id="" tvg-name="SW - TC ANIMAL PLANET FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TC-TELECLUB.jpg" group-title="SWISS",SW - TC ANIMAL PLANET FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259437
+#EXTINF:-1 tvg-id="" tvg-name="SW - TC BUNDESLIGA" tvg-logo="http://logo.protv.cc/picons-dino/logos/TC-TELECLUB.jpg" group-title="SWISS",SW - TC BUNDESLIGA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259438
+#EXTINF:-1 tvg-id="" tvg-name="SW - TC BUNDESLIGA FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TC-TELECLUB.jpg" group-title="SWISS",SW - TC BUNDESLIGA FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259439
+#EXTINF:-1 tvg-id="TeleclubCinema.ch" tvg-name="SW - TC CINEMA" tvg-logo="http://logo.protv.cc/picons-dino/logos/teleclubcinema.png" group-title="SWISS",SW - TC CINEMA
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259440
+#EXTINF:-1 tvg-id="TeleclubCinema.ch" tvg-name="SW - TC CINEMA FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/teleclubcinemahd.png" group-title="SWISS",SW - TC CINEMA FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259441
+#EXTINF:-1 tvg-id="TeleclubEmotion.ch" tvg-name="SW - TC EMOTION" tvg-logo="http://logo.protv.cc/picons-dino/logos/teleclubemotionhd.png" group-title="SWISS",SW - TC EMOTION
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259442
+#EXTINF:-1 tvg-id="TeleclubEmotion.ch" tvg-name="SW - TC EMOTION FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/teleclubemotionhd.png" group-title="SWISS",SW - TC EMOTION FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259443
+#EXTINF:-1 tvg-id="TeleclubSport1.ch" tvg-name="SW - TC SPORT 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELECLUB-SPORT-1.png" group-title="SWISS",SW - TC SPORT 1
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259444
+#EXTINF:-1 tvg-id="TeleclubSport2.ch" tvg-name="SW - TC SPORT 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELECLUB-SPORT-2.png" group-title="SWISS",SW - TC SPORT 2
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259446
+#EXTINF:-1 tvg-id="" tvg-name="SW - TC SPORT 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELECLUB-SPORT-3.gif" group-title="SWISS",SW - TC SPORT 3
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259448
+#EXTINF:-1 tvg-id="" tvg-name="SW - TC SPORT 3 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELECLUB-SPORT-3.gif" group-title="SWISS",SW - TC SPORT 3 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259449
+#EXTINF:-1 tvg-id="" tvg-name="SW - TC ZOOM" tvg-logo="http://logo.protv.cc/picons-dino/logos/TC-ZOOM.png" group-title="SWISS",SW - TC ZOOM
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259450
+#EXTINF:-1 tvg-id="" tvg-name="SW - TC ZOOM FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TC-ZOOM.png" group-title="SWISS",SW - TC ZOOM FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259460
+#EXTINF:-1 tvg-id="Tele1.ch" tvg-name="SW - TELE1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tele1.jpg" group-title="SWISS",SW - TELE1 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259461
+#EXTINF:-1 tvg-id="TeleBasel.ch" tvg-name="SW - TELEBASEL FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELEBASEL-FHD.png" group-title="SWISS",SW - TELEBASEL FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259462
+#EXTINF:-1 tvg-id="" tvg-name="SW - TELEBIELLINGUE FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELEBIELINGUE-FHD.jpeg" group-title="SWISS",SW - TELEBIELLINGUE FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259463
+#EXTINF:-1 tvg-id="ch.Tele Bärn" tvg-name="SW - TELE BÄRN FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELE-BÄREN.png" group-title="SWISS",SW - TELE BÄRN FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259464
+#EXTINF:-1 tvg-id="" tvg-name="SW - TELE D FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELE--D.jpeg" group-title="SWISS",SW - TELE D FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259465
+#EXTINF:-1 tvg-id="TeleM1.ch" tvg-name="SW - TELE M1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/telem1.png" group-title="SWISS",SW - TELE M1 FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259466
+#EXTINF:-1 tvg-id="TeleTop.ch" tvg-name="SW - TELE TOP FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/teletop.png" group-title="SWISS",SW - TELE TOP FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259468
+#EXTINF:-1 tvg-id="ch.Tele Züri" tvg-name="SW - TELE Z FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELEZ.png" group-title="SWISS",SW - TELE Z FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259469
+#EXTINF:-1 tvg-id="TeleZueri.ch" tvg-name="SW - TELEZUERI FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TELEZÜRI-FHD.png" group-title="SWISS",SW - TELEZUERI FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259470
+#EXTINF:-1 tvg-id="" tvg-name="SW - TLC" tvg-logo="http://logo.protv.cc/picons-dino/logos/tlc.png" group-title="SWISS",SW - TLC
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259471
+#EXTINF:-1 tvg-id="TVO.ch" tvg-name="SW - TVO FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/TVO.png" group-title="SWISS",SW - TVO FHD
+http://line.premium-dino.com:80/32b06eb59b/cfb40b086d/259474
